@@ -1,0 +1,3162 @@
+[
+  {
+    "name": "🇯🇵 Japan",
+    "protocol": "vless",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": true,
+    "url": "vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 Japan"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "vless",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#🌍 Global"
+  },
+  {
+    "name": "🌍 Global-02",
+    "protocol": "vless",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#🌍 Global-02"
+  },
+  {
+    "name": "🇵🇱 Poland",
+    "protocol": "vless",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?security=reality&type=tcp&headerType=http&path=/naranv2ray&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=9e0fac51cc19d2&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&encryption=none#🇵🇱 Poland"
+  },
+  {
+    "name": "🇯🇵 Japan",
+    "protocol": "hy2",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#🇯🇵 Japan"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443/#🌍 Global"
+  },
+  {
+    "name": "🇯🇵 Japan-02",
+    "protocol": "hy2",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#🇯🇵 Japan-02"
+  },
+  {
+    "name": "🇸🇬 Singapore",
+    "protocol": "hy2",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#🇸🇬 Singapore"
+  },
+  {
+    "name": "🇫🇷 France",
+    "protocol": "hy2",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "hy2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160/?sni=152-69-231-175.liao.kdns.fr#🇫🇷 France"
+  },
+  {
+    "name": "🇳🇱 Netherlands",
+    "protocol": "hy2",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#🇳🇱 Netherlands"
+  },
+  {
+    "name": "🇯🇵 Japan-03",
+    "protocol": "hy2",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#🇯🇵 Japan-03"
+  },
+  {
+    "name": "🇨🇳 China",
+    "protocol": "hy2",
+    "country": "China",
+    "flag": "🇨🇳",
+    "live": false,
+    "url": "hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#🇨🇳 China"
+  },
+  {
+    "name": "🌍 Global-02",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://6dcb725e-947e-4bbe-bb35-903374d57179@rm-eco-us-01.409648.xyz:443/?mport=9000-20000&insecure=1&sni=mkm.icu#🌍 Global-02"
+  },
+  {
+    "name": "🌍 Global-03",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#🌍 Global-03"
+  },
+  {
+    "name": "🇵🇱 Poland",
+    "protocol": "hy2",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#🇵🇱 Poland"
+  },
+  {
+    "name": "🇩🇪 Germany",
+    "protocol": "hy2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443/?sni=hopp-germany-new.ddnsguru.com#🇩🇪 Germany"
+  },
+  {
+    "name": "🇫🇮 Finland",
+    "protocol": "hy2",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": true,
+    "url": "hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#🇫🇮 Finland"
+  },
+  {
+    "name": "🇰🇷 South Korea",
+    "protocol": "hy2",
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "live": false,
+    "url": "hy2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000/?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM#🇰🇷 South Korea"
+  },
+  {
+    "name": "🇫🇷 France-02",
+    "protocol": "hy2",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#🇫🇷 France-02"
+  },
+  {
+    "name": "🇦🇺 Australia",
+    "protocol": "hy2",
+    "country": "Australia",
+    "flag": "🇦🇺",
+    "live": false,
+    "url": "hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#🇦🇺 Australia"
+  },
+  {
+    "name": "🇮🇳 India",
+    "protocol": "hy2",
+    "country": "India",
+    "flag": "🇮🇳",
+    "live": false,
+    "url": "hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳 India"
+  },
+  {
+    "name": "🇬🇧 United Kingdom",
+    "protocol": "hy2",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1&sni=vpn-uk-001.fastervpn.world#🇬🇧 United Kingdom"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-02",
+    "protocol": "hy2",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443/?insecure=1&sni=vpn-uk-002.fastervpn.world#🇬🇧 United Kingdom-02"
+  },
+  {
+    "name": "🇷🇴 Romania",
+    "protocol": "hy2",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "live": false,
+    "url": "hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#🇷🇴 Romania"
+  },
+  {
+    "name": "🇷🇴 Romania-02",
+    "protocol": "hy2",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "live": false,
+    "url": "hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#🇷🇴 Romania-02"
+  },
+  {
+    "name": "🌍 Global-04",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#🌍 Global-04"
+  },
+  {
+    "name": "🇦🇺 Australia-02",
+    "protocol": "hy2",
+    "country": "Australia",
+    "flag": "🇦🇺",
+    "live": false,
+    "url": "hy2://a34f3990b69f44bfa0d32385@149.118.78.109:443/?mport=20000-30000&insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#🇦🇺 Australia-02"
+  },
+  {
+    "name": "🇩🇪 Germany-02",
+    "protocol": "hy2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪 Germany-02"
+  },
+  {
+    "name": "🇺🇸 United States",
+    "protocol": "hy2",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#🇺🇸 United States"
+  },
+  {
+    "name": "🇩🇪 Germany-03",
+    "protocol": "hy2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:443/?sni=de1.apexvpn.space#🇩🇪 Germany-03"
+  },
+  {
+    "name": "🇮🇱 Israel",
+    "protocol": "hy2",
+    "country": "Israel",
+    "flag": "🇮🇱",
+    "live": false,
+    "url": "hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#🇮🇱 Israel"
+  },
+  {
+    "name": "🇩🇪 Germany-04",
+    "protocol": "hy2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#🇩🇪 Germany-04"
+  },
+  {
+    "name": "🌍 Global-05",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#🌍 Global-05"
+  },
+  {
+    "name": "🇫🇷 France-03",
+    "protocol": "hy2",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#🇫🇷 France-03"
+  },
+  {
+    "name": "🇵🇱 Poland-02",
+    "protocol": "hy2",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#🇵🇱 Poland-02"
+  },
+  {
+    "name": "🇫🇮 Finland-02",
+    "protocol": "hy2",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#🇫🇮 Finland-02"
+  },
+  {
+    "name": "🌍 Global-06",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&sni=gta.internet-card.sbs#🌍 Global-06"
+  },
+  {
+    "name": "🇸🇬 Singapore-02",
+    "protocol": "hy2",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 Singapore-02"
+  },
+  {
+    "name": "🇺🇸 United States-02",
+    "protocol": "hy2",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸 United States-02"
+  },
+  {
+    "name": "🌍 Global-07",
+    "protocol": "hy2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?sni=news.gazette.help#🌍 Global-07"
+  },
+  {
+    "name": "🇷🇺 Russia",
+    "protocol": "hy2",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇷🇺 Russia"
+  },
+  {
+    "name": "🇷🇺 Russia",
+    "protocol": "hysteria2",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#🇷🇺 Russia"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?obfs-password=dzcb7hv6i2kx2zze&security=tls&sni=cdn77.dmtr.ru&allowInsecure=true&alpn#🌍 Global"
+  },
+  {
+    "name": "🇮🇷 Iran",
+    "protocol": "hysteria2",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?security=tls&obfs=salamander&obfs-password=09p333uviv2qal0y&insecure=0&sni=giftcard.gisora.ir#🇮🇷 Iran"
+  },
+  {
+    "name": "🇫🇮 Finland",
+    "protocol": "hysteria2",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🇫🇮 Finland"
+  },
+  {
+    "name": "🌍 Global-02",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52016?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-02"
+  },
+  {
+    "name": "🌍 Global-03",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52022?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-03"
+  },
+  {
+    "name": "🌍 Global-04",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-04"
+  },
+  {
+    "name": "🌍 Global-05",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-05"
+  },
+  {
+    "name": "🇮🇷 Iran-02",
+    "protocol": "hysteria2",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&obfs=salamander&obfs-password=6cmj1dymhm79hopl&insecure=0&sni=gift-catalog.aroonia.ir#🇮🇷 Iran-02"
+  },
+  {
+    "name": "🇺🇸 United States",
+    "protocol": "hysteria2",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&sni=www.bing.com#🇺🇸 United States"
+  },
+  {
+    "name": "🌍 Global-06",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#🌍 Global-06"
+  },
+  {
+    "name": "🇩🇪 Germany",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Germany"
+  },
+  {
+    "name": "🇷🇴 Romania",
+    "protocol": "hysteria2",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "live": false,
+    "url": "hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443/?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴 Romania"
+  },
+  {
+    "name": "🇩🇪 Germany-02",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://Telegram:vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇩🇪 Germany-02"
+  },
+  {
+    "name": "🇫🇮 Finland-02",
+    "protocol": "hysteria2",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇫🇮 Finland-02"
+  },
+  {
+    "name": "🇩🇪 Germany-03",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm={\"udp\":[{\"settings\":{\"password\":\"83v9muumcyikh5ch\"},\"type\":\"salamander\"}]}&fp=chrome&obfs=salamander&obfs-password=83v9muumcyikh5ch&security=tls&sni=de.jey.cc.cd#🇩🇪 Germany-03"
+  },
+  {
+    "name": "🇳🇱 Netherlands",
+    "protocol": "hysteria2",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 Netherlands"
+  },
+  {
+    "name": "🇩🇪 Germany-04",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany-04"
+  },
+  {
+    "name": "🇩🇪 Germany-05",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://bffee427-8571-4618-b421-65a44984b294@de.892622.xyz:8080/?insecure=1&obfs=salamander&obfs-password=8UvZKC28AwgZHsHV#🇩🇪 Germany-05"
+  },
+  {
+    "name": "🌍 Global-07",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-07"
+  },
+  {
+    "name": "🌍 Global-08",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-08"
+  },
+  {
+    "name": "🌍 Global-09",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-09"
+  },
+  {
+    "name": "🇷🇺 Russia-02",
+    "protocol": "hysteria2",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&security=tls&sni=ru1.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&obfs=salamander#🇷🇺 Russia-02"
+  },
+  {
+    "name": "🇳🇱 Netherlands-02",
+    "protocol": "hysteria2",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&security=tls&sni=nl1.sferavpn.pro#🇳🇱 Netherlands-02"
+  },
+  {
+    "name": "🇩🇪 Germany-06",
+    "protocol": "hysteria2",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443/?insecure=1&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#🇩🇪 Germany-06"
+  },
+  {
+    "name": "🌍 Global-10",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://dmbbfqabkdu46mo3@giftcard.gateway-stream.com:52001?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-10"
+  },
+  {
+    "name": "🌍 Global-11",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://dmbbfqabkdu46mo3@giftcard.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-11"
+  },
+  {
+    "name": "🌍 Global-12",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://dmbbfqabkdu46mo3@giftcard.gateway-stream.com:52003?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-12"
+  },
+  {
+    "name": "🌍 Global-13",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-13"
+  },
+  {
+    "name": "🌍 Global-14",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-14"
+  },
+  {
+    "name": "🌍 Global-15",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52031?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-15"
+  },
+  {
+    "name": "🌍 Global-16",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52056?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-16"
+  },
+  {
+    "name": "🌍 Global-17",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52058?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-17"
+  },
+  {
+    "name": "🌍 Global-18",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52067?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#🌍 Global-18"
+  },
+  {
+    "name": "🌍 Global-19",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52000?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-19"
+  },
+  {
+    "name": "🌍 Global-20",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52010?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-20"
+  },
+  {
+    "name": "🌍 Global-21",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://o4uW5zm869-LQ0b-eRALy538ESbs0mI3@5khjqztq30ec.dopwiz.com:5726?security=tls&obfs=salamander&obfs-password=I1LhSz_TLtoY4tlt85XHnPAf&insecure=0&sni=www.nexia-holic.ir#🌍 Global-21"
+  },
+  {
+    "name": "🇳🇱 Netherlands-03",
+    "protocol": "hysteria2",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🇳🇱 Netherlands-03"
+  },
+  {
+    "name": "🇮🇷 Iran-03",
+    "protocol": "hysteria2",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={\"udp\":[{\"settings\":{\"password\":\"2gg0tx9d2etug8n9\"},\"type\":\"salamander\"}]}&fp=chrome&obfs=salamander&obfs-password=2gg0tx9d2etug8n9&security=tls&sni=pro2.riziro.ir#🇮🇷 Iran-03"
+  },
+  {
+    "name": "🌍 Global-22",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52026?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-22"
+  },
+  {
+    "name": "🌍 Global-23",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52033?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-23"
+  },
+  {
+    "name": "🌍 Global-24",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-24"
+  },
+  {
+    "name": "🌍 Global-25",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52069?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-25"
+  },
+  {
+    "name": "🌍 Global-26",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52071?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-26"
+  },
+  {
+    "name": "🌍 Global-27",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52088?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🌍 Global-27"
+  },
+  {
+    "name": "🌍 Global-28",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#🌍 Global-28"
+  },
+  {
+    "name": "🌍 Global-29",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-29"
+  },
+  {
+    "name": "🌍 Global-30",
+    "protocol": "hysteria2",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🌍 Global-30"
+  },
+  {
+    "name": "🇳🇱 Netherlands",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://2022-blake3-aes-256-gcm:KYFtNXJrl3Jei35nSh9hMDqzlRdOjd6NlrtV6wyOVsw=:YBLEjXrK2Rh6XigucXQ4aqV/m70sjyErBcbtt1SFFds=@77.90.61.217:56670?type=tcp#🇳🇱 Netherlands"
+  },
+  {
+    "name": "🇷🇺 Russia",
+    "protocol": "ss",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "ss://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇷🇺 Russia"
+  },
+  {
+    "name": "🇮🇷 Iran",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": true,
+    "url": "ss://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=/@vilyshco/ed=1024&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=chrome&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR#🇮🇷 Iran"
+  },
+  {
+    "name": "🇩🇪 Germany",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": true,
+    "url": "ss://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 Germany"
+  },
+  {
+    "name": "🇱🇻 Latvia",
+    "protocol": "ss",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "live": false,
+    "url": "ss://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#🇱🇻 Latvia"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Free_HTTPCustom@free-httpcustomjfree-httpcustom-free-httpcustom-free-httpcustom.vip-f.top:80?mode=stream-up&path=/Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-j-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom&security=none&encryption=none&host=cdn.ir&type=xhttp#🌍 Global"
+  },
+  {
+    "name": "🇩🇪 Germany-02",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mm14cUFGL3pVTU83Y0ExVVBVb29DQk1GQnJBeXRkazdHRHFGMTlBcmNtWT0@130.61.43.101:59924#🇩🇪 Germany-02"
+  },
+  {
+    "name": "🇳🇱 Netherlands-02",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mm5aY3FTeDdHK3o3dWNiZENCdmcyREpmZ052KzN0ejQ0UjR0MWEyZng1bz0@92.5.235.28:45819#🇳🇱 Netherlands-02"
+  },
+  {
+    "name": "🇸🇬 Singapore",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#🇸🇬 Singapore"
+  },
+  {
+    "name": "🇩🇪 Germany-03",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXJxVWRoaGVJWGdNR3VwVVd3YmJ2Wjd5UkFXeTVqSG1pUHR4d3JMaHMzaz0@130.61.131.106:59924#🇩🇪 Germany-03"
+  },
+  {
+    "name": "🇬🇧 United Kingdom",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QjJmd284Rm5Ndk9MYU5MVkRZWWJNYTVvWEJlalRlNUd2UEZKaGxkQXlGMD0@129.151.64.19:61312#🇬🇧 United Kingdom"
+  },
+  {
+    "name": "🇮🇷 Iran-02",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇮🇷 Iran-02"
+  },
+  {
+    "name": "🇩🇪 Germany-04",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXd4Tm1pSFFyNG5aUUVqeEtEOGJsLzBsYnZiWi9ISkpiekFranduSE9raz0@129.159.15.175:59924#🇩🇪 Germany-04"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-02",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VXAwK3VWcjgxU2R3SnVtVTRJUXlaUVlmSUwrSjFtUGpFQU5qNUViTGM5dz0@129.151.72.38:61312#🇬🇧 United Kingdom-02"
+  },
+  {
+    "name": "🇳🇱 Netherlands-03",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vng0dUUwZERSTUFKYlMxMGl3ZDIrd3FxZElxYWE4N2xmMkN5VGZQYzdrRT0@134.98.130.54:45819#🇳🇱 Netherlands-03"
+  },
+  {
+    "name": "🇩🇪 Germany-05",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YllEWUU5OFVtNTVRREMwTm1Oa2tTdGE4V1pZKzc2anh0TEZaTmF1ZzBHWT0@130.61.119.35:59924#🇩🇪 Germany-05"
+  },
+  {
+    "name": "🇩🇪 Germany-06",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1JxSEtqMWx5UFYwcWlnRGxUajJMQzlWZWJYaWtITnhzT1VRK2w1SE1vbz0@130.61.228.228:59924#🇩🇪 Germany-06"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-03",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3RyVU1WYlNSU2k0TWx6QVRyK0ZqdnFGQ2N6WldGeEczaFo3K0lXVzF5MD0@134.65.57.72:61312#🇬🇧 United Kingdom-03"
+  },
+  {
+    "name": "🇪🇸 Spain",
+    "protocol": "ss",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#🇪🇸 Spain"
+  },
+  {
+    "name": "🇦🇹 Austria",
+    "protocol": "ss",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q1ZGaTNxNmVCZWxSc25KWFhpb3pQTXBSbE5PRDJiVzhLOTNDZmtjZnY0Zz06QVlUQ2cySmFueURla09KN241cFRPRllIRk5adko4d01yaHMzNzdzOC84dz0@138.124.90.40:46194?#🇦🇹 Austria"
+  },
+  {
+    "name": "🇮🇷 Iran-03",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": true,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0NvbUVRMjhjVlhJelZseGRwVHk2TFhMb2NrWEV4WlVoMXhVSlQ0OS9uaz06aFBxTUltQ3dhNnJkQmJJL3JsQU1pVWVTWkVpNVFwTk5VWkM1Ry84OVpIYz0=@aaa.app9.ir:2082#🇮🇷 Iran-03"
+  },
+  {
+    "name": "🇦🇹 Austria-02",
+    "protocol": "ss",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UWJRamwzclRML2t0ckoyVVZGTDhaQkYzQlAxdElReU5jdC9yNEFDWUt5RT06OTQ2OVgxRmY0Y1RwalpNMGMxS0lpMlRTd2k2WDB4UGRNalpBVXNxS2FLdz0@138.124.90.40:54052?#🇦🇹 Austria-02"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-04",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#🇬🇧 United Kingdom-04"
+  },
+  {
+    "name": "🇨🇦 Canada",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?type=tcp#🇨🇦 Canada"
+  },
+  {
+    "name": "🇩🇪 Germany-07",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": true,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0=@141.95.29.163:2083#🇩🇪 Germany-07"
+  },
+  {
+    "name": "🇦🇹 Austria-03",
+    "protocol": "ss",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "live": false,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZVJreUROSEVKT0RWZlBxMFJEL25FTlc4RkRTWUdabmdtM25SU08yYVBxST06c3o5QXVTdFVrUG9ibDFZbHl1cVZoRXg3SzJCMUlWN0swK2JaK212UlZIMD0@138.124.90.40:40374?#🇦🇹 Austria-03"
+  },
+  {
+    "name": "🇹🇷 Turkey",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": true,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06YUU2TXhCVGUrTVhIZDlIb0YyRkYvQnpLRnFHVFJlTXBNZXZsUWh2c3Uwcz0=@176.53.17.241:1943#🇹🇷 Turkey"
+  },
+  {
+    "name": "🇳🇱 Netherlands-04",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#🇳🇱 Netherlands-04"
+  },
+  {
+    "name": "🌍 Global-02",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDc0NzUxNC1mYjE0LTRmMzEtODM5MC1lMWYwNDUzZWZmNmQ=@hk3.mhw7e2.online:20029#🌍 Global-02"
+  },
+  {
+    "name": "🇲🇽 Mexico",
+    "protocol": "ss",
+    "country": "Mexico",
+    "flag": "🇲🇽",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🇲🇽 Mexico"
+  },
+  {
+    "name": "🌍 Global-03",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#🌍 Global-03"
+  },
+  {
+    "name": "🌍 CDN/Global",
+    "protocol": "ss",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cEdnLW1aenBvS1JONVRZUGc4STJR@cdn-2d12.giftcardbazarbot.com:8243#🌍 CDN/Global"
+  },
+  {
+    "name": "🇮🇩 Indonesia",
+    "protocol": "ss",
+    "country": "Indonesia",
+    "flag": "🇮🇩",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg==@103.160.63.199:31348?type=tcp#🇮🇩 Indonesia"
+  },
+  {
+    "name": "🇩🇪 Germany-08",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA==@3.75.179.86:443#🇩🇪 Germany-08"
+  },
+  {
+    "name": "🇺🇸 United States",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#🇺🇸 United States"
+  },
+  {
+    "name": "🇵🇱 Poland",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Poland"
+  },
+  {
+    "name": "🇺🇸 United States-02",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#🇺🇸 United States-02"
+  },
+  {
+    "name": "🇷🇴 Romania",
+    "protocol": "ss",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@82.152.132.103:1080#🇷🇴 Romania"
+  },
+  {
+    "name": "🌍 Global-04",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🌍 Global-04"
+  },
+  {
+    "name": "🇿🇦 South Africa",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#🇿🇦 South Africa"
+  },
+  {
+    "name": "🇯🇵 Japan",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#🇯🇵 Japan"
+  },
+  {
+    "name": "🇩🇪 Germany-09",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🇩🇪 Germany-09"
+  },
+  {
+    "name": "🇳🇴 Norway",
+    "protocol": "ss",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🇳🇴 Norway"
+  },
+  {
+    "name": "🇳🇴 Norway-02",
+    "protocol": "ss",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🇳🇴 Norway-02"
+  },
+  {
+    "name": "🌍 Global-05",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2ZkQGZyZWFrY29uZmlnMTMuZmVsYWZlbC5vcmc6NDQz#🌍 Global-05"
+  },
+  {
+    "name": "🇳🇱 Netherlands-05",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg@193.0.179.84:31348?#🇳🇱 Netherlands-05"
+  },
+  {
+    "name": "🇮🇪 Ireland",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT1B1U2xSNmgzWkhxbDNo@20.234.20.89:443#🇮🇪 Ireland"
+  },
+  {
+    "name": "🇩🇪 Germany-10",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪 Germany-10"
+  },
+  {
+    "name": "🇯🇵 Japan-02",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmY1NTE5N2QyYmFjMmRiMmVkODFjNTY5Y2U5NTc2Yw@64.83.32.126:8481#🇯🇵 Japan-02"
+  },
+  {
+    "name": "🇺🇸 United States-03",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozY2IyYmJiNDBmODc5Y2Rj@89.117.16.78:41500#🇺🇸 United States-03"
+  },
+  {
+    "name": "🌍 Global-06",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozc3N1bWYy@ca225.vpnbook.com:443#🌍 Global-06"
+  },
+  {
+    "name": "🇮🇷 Iran-04",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044#🇮🇷 Iran-04"
+  },
+  {
+    "name": "🇮🇪 Ireland-02",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#🇮🇪 Ireland-02"
+  },
+  {
+    "name": "🇦🇪 UAE",
+    "protocol": "ss",
+    "country": "UAE",
+    "flag": "🇦🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@188.208.110.58:8444#🇦🇪 UAE"
+  },
+  {
+    "name": "🇩🇪 Germany-11",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGdfYXN0cm92cG5fb2ZmaWNpYWw@179.61.138.73:8444#🇩🇪 Germany-11"
+  },
+  {
+    "name": "🇮🇪 Ireland-03",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N01CaG5EMWtNOEdod2VZ@128.251.12.23:443#🇮🇪 Ireland-03"
+  },
+  {
+    "name": "🇩🇪 Germany-12",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪 Germany-12"
+  },
+  {
+    "name": "🇮🇷 Iran-05",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aGE3aW5hN3dzMXdzNnl4@batman4.kovira2.ir:25026#🇮🇷 Iran-05"
+  },
+  {
+    "name": "🇳🇱 Netherlands-06",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🇳🇱 Netherlands-06"
+  },
+  {
+    "name": "🇿🇦 South Africa-02",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UTN2YXJ5SjNaaFNZVEE0@20.87.2.40:443#🇿🇦 South Africa-02"
+  },
+  {
+    "name": "🇦🇱 AL",
+    "protocol": "ss",
+    "country": "AL",
+    "flag": "🇦🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5d25xd29ueUsxTFJHd0ppYkZRMGFN@130.49.189.158:10792#🇦🇱 AL"
+  },
+  {
+    "name": "🇨🇦 Canada-02",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#🇨🇦 Canada-02"
+  },
+  {
+    "name": "🇵🇱 Poland-02",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#🇵🇱 Poland-02"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-05",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#🇬🇧 United Kingdom-05"
+  },
+  {
+    "name": "🇳🇴 Norway-03",
+    "protocol": "ss",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#🇳🇴 Norway-03"
+  },
+  {
+    "name": "🇮🇪 Ireland-04",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🇮🇪 Ireland-04"
+  },
+  {
+    "name": "🇿🇦 South Africa-03",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🇿🇦 South Africa-03"
+  },
+  {
+    "name": "🇿🇦 South Africa-04",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.43.105:443#🇿🇦 South Africa-04"
+  },
+  {
+    "name": "🇫🇷 France",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 France"
+  },
+  {
+    "name": "🇳🇱 Netherlands-07",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@nl1.levikogjgfdd.ir:8388#🇳🇱 Netherlands-07"
+  },
+  {
+    "name": "🇳🇱 Netherlands-08",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 Netherlands-08"
+  },
+  {
+    "name": "🇮🇪 Ireland-05",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMVZYZmlQOWI5VmVYOVpE@20.234.82.250:443#🇮🇪 Ireland-05"
+  },
+  {
+    "name": "🇮🇳 India",
+    "protocol": "ss",
+    "country": "India",
+    "flag": "🇮🇳",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🇮🇳 India"
+  },
+  {
+    "name": "🇳🇱 Netherlands-09",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#🇳🇱 Netherlands-09"
+  },
+  {
+    "name": "🇮🇪 Ireland-06",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@40.112.71.34:443#🇮🇪 Ireland-06"
+  },
+  {
+    "name": "🇨🇦 Canada-03",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦 Canada-03"
+  },
+  {
+    "name": "🇮🇷 Iran-06",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#🇮🇷 Iran-06"
+  },
+  {
+    "name": "🇳🇱 Netherlands-10",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGVDSFN1NGx0OHFmbENTNXpET3k4@195.93.253.245:49137#🇳🇱 Netherlands-10"
+  },
+  {
+    "name": "🇺🇸 United States-04",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:804#🇺🇸 United States-04"
+  },
+  {
+    "name": "🇸🇬 Singapore-02",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:801#🇸🇬 Singapore-02"
+  },
+  {
+    "name": "🇸🇬 Singapore-03",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:805#🇸🇬 Singapore-03"
+  },
+  {
+    "name": "🇸🇬 Singapore-04",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:808#🇸🇬 Singapore-04"
+  },
+  {
+    "name": "🇹🇷 Turkey-02",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.17.113.234:812#🇹🇷 Turkey-02"
+  },
+  {
+    "name": "🇯🇵 Japan-03",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.83:808#🇯🇵 Japan-03"
+  },
+  {
+    "name": "🇺🇸 United States-05",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.91.107.245:1230#🇺🇸 United States-05"
+  },
+  {
+    "name": "🇿🇦 South Africa-05",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYnRSWDRjT1NqZmQ4WW9J@20.87.212.20:443#🇿🇦 South Africa-05"
+  },
+  {
+    "name": "🇮🇷 Iran-07",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbFNZK0QrdHR4cDhPTTh0WENDc1duS2gzRWg2S2w0ckFBdjNuRTBYMDhRPQ@e3.cover20.ir:56985#🇮🇷 Iran-07"
+  },
+  {
+    "name": "🇿🇦 South Africa-06",
+    "protocol": "ss",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#🇿🇦 South Africa-06"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-06",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.223:61312#🇬🇧 United Kingdom-06"
+  },
+  {
+    "name": "🌍 Global-07",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@fr01.proxysocks.xyz:8388#🌍 Global-07"
+  },
+  {
+    "name": "🇮🇪 Ireland-07",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcmtGNUQ5NWN1TTk3RGx5@52.236.93.60:443#🇮🇪 Ireland-07"
+  },
+  {
+    "name": "🇳🇱 Netherlands-11",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱 Netherlands-11"
+  },
+  {
+    "name": "🇳🇱 Netherlands-12",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱 Netherlands-12"
+  },
+  {
+    "name": "🇷🇴 Romania-02",
+    "protocol": "ss",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania-02"
+  },
+  {
+    "name": "🌍 Global-08",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🌍 Global-08"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-07",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTM3dFRUxaMFdzSzByc0x6bDgxMVA2@78.129.140.11:443#🇬🇧 United Kingdom-07"
+  },
+  {
+    "name": "🇹🇷 Turkey-03",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdFp3TDd5dUdKTDcwbTM5RDFVcXV2cnFmMzJwRkF2dw@turkey.zelnora.ir:1080#🇹🇷 Turkey-03"
+  },
+  {
+    "name": "🇸🇬 Singapore-05",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬 Singapore-05"
+  },
+  {
+    "name": "🇫🇮 Finland",
+    "protocol": "ss",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#🇫🇮 Finland"
+  },
+  {
+    "name": "🇵🇱 Poland-03",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 Poland-03"
+  },
+  {
+    "name": "🇫🇷 France-02",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#🇫🇷 France-02"
+  },
+  {
+    "name": "🇺🇸 United States-06",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#🇺🇸 United States-06"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-08",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#🇬🇧 United Kingdom-08"
+  },
+  {
+    "name": "🇮🇷 Iran-08",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🇮🇷 Iran-08"
+  },
+  {
+    "name": "🌍 Global-09",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🌍 Global-09"
+  },
+  {
+    "name": "🇪🇸 Spain-02",
+    "protocol": "ss",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain-02"
+  },
+  {
+    "name": "🇮🇪 Ireland-08",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXb0JtN29tUEpjbnhLVDVB@98.71.73.147:443?outline=1&prefix=POST N3586feQ#🇮🇪 Ireland-08"
+  },
+  {
+    "name": "🇺🇸 United States-07",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@193.42.38.209:1080#🇺🇸 United States-07"
+  },
+  {
+    "name": "🇯🇵 Japan-04",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@89.187.160.73:1080#🇯🇵 Japan-04"
+  },
+  {
+    "name": "🇹🇷 Turkey-04",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇹🇷 Turkey-04"
+  },
+  {
+    "name": "🇺🇸 United States-08",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#🇺🇸 United States-08"
+  },
+  {
+    "name": "🇮🇷 Iran-09",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaTVrMUo1S1ZiZlR1UDV2SHplTE84K1VEUHlBQzByU0ljWlVCaG5kK2lnPQ@e1.cover20.ir:51570#🇮🇷 Iran-09"
+  },
+  {
+    "name": "🌍 Global-10",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPUAxNDAuMjM4LjE5MS4yNDY6NTkzMTk=#🌍 Global-10"
+  },
+  {
+    "name": "🇫🇮 Finland-02",
+    "protocol": "ss",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV00xWQ@138.124.15.120:8388#🇫🇮 Finland-02"
+  },
+  {
+    "name": "🇫🇷 France-03",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakF4Wg@83.171.225.55:1443#🇫🇷 France-03"
+  },
+  {
+    "name": "🇧🇷 Brazil",
+    "protocol": "ss",
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#🇧🇷 Brazil"
+  },
+  {
+    "name": "🇩🇪 Germany-13",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#🇩🇪 Germany-13"
+  },
+  {
+    "name": "🇭🇰 Hong Kong",
+    "protocol": "ss",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@157.254.21.62:20000#🇭🇰 Hong Kong"
+  },
+  {
+    "name": "🇰🇿 Kazakhstan",
+    "protocol": "ss",
+    "country": "Kazakhstan",
+    "flag": "🇰🇿",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#🇰🇿 Kazakhstan"
+  },
+  {
+    "name": "🇦🇺 Australia",
+    "protocol": "ss",
+    "country": "Australia",
+    "flag": "🇦🇺",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺 Australia"
+  },
+  {
+    "name": "🇺🇸 United States-09",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸 United States-09"
+  },
+  {
+    "name": "🇩🇪 Germany-14",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMDMyYzM4MzNkNGI4NmI5@87.83.220.214:10210#🇩🇪 Germany-14"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-09",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#🇬🇧 United Kingdom-09"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-10",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTM2MzcyYS1kOTc2LTRlMjUtOGIzYi0yOWMxYTU4NDFlMDY=@140.238.64.207:42345#🇬🇧 United Kingdom-10"
+  },
+  {
+    "name": "🇺🇸 United States-10",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 United States-10"
+  },
+  {
+    "name": "🇳🇱 Netherlands-13",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱 Netherlands-13"
+  },
+  {
+    "name": "🇲🇹 MT",
+    "protocol": "ss",
+    "country": "MT",
+    "flag": "🇲🇹",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🇲🇹 MT"
+  },
+  {
+    "name": "🇰🇿 Kazakhstan-02",
+    "protocol": "ss",
+    "country": "Kazakhstan",
+    "flag": "🇰🇿",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#🇰🇿 Kazakhstan-02"
+  },
+  {
+    "name": "🇺🇸 United States-11",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUkFUU2JWRjBxMTI0enZ0ODM2OTFqZURYWmFkUHRkaQ@104.167.196.170:1080?#🇺🇸 United States-11"
+  },
+  {
+    "name": "🇮🇪 Ireland-09",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#🇮🇪 Ireland-09"
+  },
+  {
+    "name": "🇫🇷 France-04",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVGdVc21PQkNYakczSl83dkFqWmNR@38.242.202.36:4408#🇫🇷 France-04"
+  },
+  {
+    "name": "🇺🇸 United States-12",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#🇺🇸 United States-12"
+  },
+  {
+    "name": "🇳🇱 Netherlands-14",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#🇳🇱 Netherlands-14"
+  },
+  {
+    "name": "🇳🇱 Netherlands-15",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🇳🇱 Netherlands-15"
+  },
+  {
+    "name": "🇳🇱 Netherlands-16",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 Netherlands-16"
+  },
+  {
+    "name": "🇳🇱 Netherlands-17",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#🇳🇱 Netherlands-17"
+  },
+  {
+    "name": "🇳🇱 Netherlands-18",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#🇳🇱 Netherlands-18"
+  },
+  {
+    "name": "🇳🇱 Netherlands-19",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🇳🇱 Netherlands-19"
+  },
+  {
+    "name": "🇳🇱 Netherlands-20",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#🇳🇱 Netherlands-20"
+  },
+  {
+    "name": "🇳🇱 Netherlands-21",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱 Netherlands-21"
+  },
+  {
+    "name": "🇳🇱 Netherlands-22",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 Netherlands-22"
+  },
+  {
+    "name": "🇳🇱 Netherlands-23",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🇳🇱 Netherlands-23"
+  },
+  {
+    "name": "🇳🇱 Netherlands-24",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱 Netherlands-24"
+  },
+  {
+    "name": "🇳🇱 Netherlands-25",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#🇳🇱 Netherlands-25"
+  },
+  {
+    "name": "🇳🇱 Netherlands-26",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🇳🇱 Netherlands-26"
+  },
+  {
+    "name": "🇳🇱 Netherlands-27",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#🇳🇱 Netherlands-27"
+  },
+  {
+    "name": "🇳🇱 Netherlands-28",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#🇳🇱 Netherlands-28"
+  },
+  {
+    "name": "🇳🇱 Netherlands-29",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 Netherlands-29"
+  },
+  {
+    "name": "🇳🇱 Netherlands-30",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#🇳🇱 Netherlands-30"
+  },
+  {
+    "name": "🇳🇱 Netherlands-31",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇳🇱 Netherlands-31"
+  },
+  {
+    "name": "🇳🇱 Netherlands-32",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#🇳🇱 Netherlands-32"
+  },
+  {
+    "name": "🇳🇱 Netherlands-33",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#🇳🇱 Netherlands-33"
+  },
+  {
+    "name": "🇮🇷 Iran-10",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnJvdjR2ZDRpc3piM2F3@koviraaa.kovira2.ir:25026#🇮🇷 Iran-10"
+  },
+  {
+    "name": "🇩🇪 Germany-15",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@45.63.116.235:8313#🇩🇪 Germany-15"
+  },
+  {
+    "name": "🇯🇵 Japan-05",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 Japan-05"
+  },
+  {
+    "name": "🇮🇪 Ireland-10",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#🇮🇪 Ireland-10"
+  },
+  {
+    "name": "🇩🇪 Germany-16",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubXB5VHNfNXZLc1NLZURfQVdKcGFxeU9odFdFUDRCNQ@2.28.225.166:33#🇩🇪 Germany-16"
+  },
+  {
+    "name": "🇳🇱 Netherlands-34",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🇳🇱 Netherlands-34"
+  },
+  {
+    "name": "🇳🇱 Netherlands-35",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.159:8080#🇳🇱 Netherlands-35"
+  },
+  {
+    "name": "🇳🇱 Netherlands-36",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.180:8080#🇳🇱 Netherlands-36"
+  },
+  {
+    "name": "🇳🇱 Netherlands-37",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#🇳🇱 Netherlands-37"
+  },
+  {
+    "name": "🇳🇱 Netherlands-38",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#🇳🇱 Netherlands-38"
+  },
+  {
+    "name": "🇳🇱 Netherlands-39",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#🇳🇱 Netherlands-39"
+  },
+  {
+    "name": "🇳🇱 Netherlands-40",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#🇳🇱 Netherlands-40"
+  },
+  {
+    "name": "🇳🇱 Netherlands-41",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱 Netherlands-41"
+  },
+  {
+    "name": "🇳🇱 Netherlands-42",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇳🇱 Netherlands-42"
+  },
+  {
+    "name": "🇳🇱 Netherlands-43",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#🇳🇱 Netherlands-43"
+  },
+  {
+    "name": "🇳🇱 Netherlands-44",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#🇳🇱 Netherlands-44"
+  },
+  {
+    "name": "🇳🇱 Netherlands-45",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#🇳🇱 Netherlands-45"
+  },
+  {
+    "name": "🇳🇱 Netherlands-46",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱 Netherlands-46"
+  },
+  {
+    "name": "🇳🇱 Netherlands-47",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#🇳🇱 Netherlands-47"
+  },
+  {
+    "name": "🇳🇱 Netherlands-48",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#🇳🇱 Netherlands-48"
+  },
+  {
+    "name": "🇳🇱 Netherlands-49",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🇳🇱 Netherlands-49"
+  },
+  {
+    "name": "🇳🇱 Netherlands-50",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#🇳🇱 Netherlands-50"
+  },
+  {
+    "name": "🇳🇱 Netherlands-51",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#🇳🇱 Netherlands-51"
+  },
+  {
+    "name": "🇮🇷 Iran-11",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700#🇮🇷 Iran-11"
+  },
+  {
+    "name": "🇺🇸 United States-13",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#🇺🇸 United States-13"
+  },
+  {
+    "name": "🇪🇸 Spain-03",
+    "protocol": "ss",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain-03"
+  },
+  {
+    "name": "🇮🇪 Ireland-11",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#🇮🇪 Ireland-11"
+  },
+  {
+    "name": "🇫🇮 Finland-03",
+    "protocol": "ss",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#🇫🇮 Finland-03"
+  },
+  {
+    "name": "🇹🇷 Turkey-05",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🇹🇷 Turkey-05"
+  },
+  {
+    "name": "🇭🇰 Hong Kong-02",
+    "protocol": "ss",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "live": true,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇭🇰 Hong Kong-02"
+  },
+  {
+    "name": "🇮🇷 Iran-12",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 Iran-12"
+  },
+  {
+    "name": "🇫🇷 France-05",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058#🇫🇷 France-05"
+  },
+  {
+    "name": "🌍 Global-11",
+    "protocol": "ss",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@8.218.196.35:443/?plugin=v2ray-plugin;mode=websocket;mux=8#🌍 Global-11"
+  },
+  {
+    "name": "🇨🇭 Switzerland",
+    "protocol": "ss",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🇨🇭 Switzerland"
+  },
+  {
+    "name": "🇳🇱 Netherlands-52",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱 Netherlands-52"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-11",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🇬🇧 United Kingdom-11"
+  },
+  {
+    "name": "🇺🇸 United States-14",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸 United States-14"
+  },
+  {
+    "name": "🇳🇱 Netherlands-53",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": true,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#🇳🇱 Netherlands-53"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-12",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@uk-dc1.yangon.club:443#🇬🇧 United Kingdom-12"
+  },
+  {
+    "name": "🇹🇭 Thailand",
+    "protocol": "ss",
+    "country": "Thailand",
+    "flag": "🇹🇭",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#🇹🇭 Thailand"
+  },
+  {
+    "name": "🇨🇳 China",
+    "protocol": "ss",
+    "country": "China",
+    "flag": "🇨🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#🇨🇳 China"
+  },
+  {
+    "name": "🇨🇳 China-02",
+    "protocol": "ss",
+    "country": "China",
+    "flag": "🇨🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#🇨🇳 China-02"
+  },
+  {
+    "name": "🇨🇳 China-03",
+    "protocol": "ss",
+    "country": "China",
+    "flag": "🇨🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#🇨🇳 China-03"
+  },
+  {
+    "name": "🇨🇳 China-04",
+    "protocol": "ss",
+    "country": "China",
+    "flag": "🇨🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#🇨🇳 China-04"
+  },
+  {
+    "name": "🇫🇷 France-06",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#🇫🇷 France-06"
+  },
+  {
+    "name": "🇵🇱 Poland-04",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.70:9014#🇵🇱 Poland-04"
+  },
+  {
+    "name": "🇸🇬 Singapore-06",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@103.172.116.6:9043#🇸🇬 Singapore-06"
+  },
+  {
+    "name": "🇱🇻 Latvia-02",
+    "protocol": "ss",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@185.135.86.173:9043#🇱🇻 Latvia-02"
+  },
+  {
+    "name": "🇳🇱 Netherlands-54",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@213.183.59.206:9043#🇳🇱 Netherlands-54"
+  },
+  {
+    "name": "🇵🇱 Poland-05",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.63:9043#🇵🇱 Poland-05"
+  },
+  {
+    "name": "🇵🇱 Poland-06",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#🇵🇱 Poland-06"
+  },
+  {
+    "name": "🇹🇷 Turkey-06",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🇹🇷 Turkey-06"
+  },
+  {
+    "name": "🇳🇱 Netherlands-55",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@213.183.59.190:9003#🇳🇱 Netherlands-55"
+  },
+  {
+    "name": "🇵🇱 Poland-07",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#🇵🇱 Poland-07"
+  },
+  {
+    "name": "🇵🇱 Poland-08",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.63:9003#🇵🇱 Poland-08"
+  },
+  {
+    "name": "🇹🇷 Turkey-07",
+    "protocol": "ss",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@45.89.52.66:9003#🇹🇷 Turkey-07"
+  },
+  {
+    "name": "🇪🇸 Spain-04",
+    "protocol": "ss",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🇪🇸 Spain-04"
+  },
+  {
+    "name": "🇵🇱 Poland-09",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#🇵🇱 Poland-09"
+  },
+  {
+    "name": "🇸🇬 Singapore-07",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.6:9011#🇸🇬 Singapore-07"
+  },
+  {
+    "name": "🇵🇱 Poland-10",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.68:9011#🇵🇱 Poland-10"
+  },
+  {
+    "name": "🇨🇦 Canada-04",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.156.204.87:443#🇨🇦 Canada-04"
+  },
+  {
+    "name": "🇨🇦 Canada-05",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.182.66:443#🇨🇦 Canada-05"
+  },
+  {
+    "name": "🇨🇦 Canada-06",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@16.52.44.169:443#🇨🇦 Canada-06"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-13",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.132.203.206:443#🇬🇧 United Kingdom-13"
+  },
+  {
+    "name": "🇺🇸 United States-15",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.189.171.163:443#🇺🇸 United States-15"
+  },
+  {
+    "name": "🇨🇦 Canada-07",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.182.118.89:443#🇨🇦 Canada-07"
+  },
+  {
+    "name": "🇮🇪 Ireland-12",
+    "protocol": "ss",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.214.208.36:443#🇮🇪 Ireland-12"
+  },
+  {
+    "name": "🇯🇵 Japan-06",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan-06"
+  },
+  {
+    "name": "🇷🇺 Russia-02",
+    "protocol": "ss",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#🇷🇺 Russia-02"
+  },
+  {
+    "name": "🇷🇺 Russia-03",
+    "protocol": "ss",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808#🇷🇺 Russia-03"
+  },
+  {
+    "name": "🇯🇵 Japan-07",
+    "protocol": "ss",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y@64.83.33.45:443#🇯🇵 Japan-07"
+  },
+  {
+    "name": "🇲🇽 Mexico-02",
+    "protocol": "ss",
+    "country": "Mexico",
+    "flag": "🇲🇽",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🇲🇽 Mexico-02"
+  },
+  {
+    "name": "🇮🇳 India-02",
+    "protocol": "ss",
+    "country": "India",
+    "flag": "🇮🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 India-02"
+  },
+  {
+    "name": "🇫🇷 France-07",
+    "protocol": "ss",
+    "country": "France",
+    "flag": "🇫🇷",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#🇫🇷 France-07"
+  },
+  {
+    "name": "🇺🇸 United States-16",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#🇺🇸 United States-16"
+  },
+  {
+    "name": "🇺🇸 United States-17",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🇺🇸 United States-17"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-14",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#🇬🇧 United Kingdom-14"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-15",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80#🇬🇧 United Kingdom-15"
+  },
+  {
+    "name": "🇮🇳 India-03",
+    "protocol": "ss",
+    "country": "India",
+    "flag": "🇮🇳",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India-03"
+  },
+  {
+    "name": "🇩🇪 Germany-17",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Germany-17"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-16",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 United Kingdom-16"
+  },
+  {
+    "name": "🇸🇬 Singapore-08",
+    "protocol": "ss",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206VVdVSlM4RjdKTjhPckUzWnk4eW9ZeGgyVDNhVU5xTDBveG1Hb0hDVCsrZz0@68.183.180.151:16696#🇸🇬 Singapore-08"
+  },
+  {
+    "name": "🇺🇸 United States-18",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🇺🇸 United States-18"
+  },
+  {
+    "name": "🇺🇸 United States-19",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🇺🇸 United States-19"
+  },
+  {
+    "name": "🇺🇸 United States-20",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸 United States-20"
+  },
+  {
+    "name": "🇩🇪 Germany-18",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Germany-18"
+  },
+  {
+    "name": "🇰🇷 South Korea",
+    "protocol": "ss",
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:8888#🇰🇷 South Korea"
+  },
+  {
+    "name": "🇨🇦 Canada-08",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦 Canada-08"
+  },
+  {
+    "name": "🇺🇸 United States-21",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#🇺🇸 United States-21"
+  },
+  {
+    "name": "🇩🇰 Denmark",
+    "protocol": "ss",
+    "country": "Denmark",
+    "flag": "🇩🇰",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#🇩🇰 Denmark"
+  },
+  {
+    "name": "🇨🇦 Canada-09",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦 Canada-09"
+  },
+  {
+    "name": "🇮🇷 Iran-13",
+    "protocol": "ss",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206WXpoa056azRZemMyTlRNeFlqYzVNRFF3TUdOaU1EUmxZbVF4WkRKaQ@95.38.167.78:9112?#🇮🇷 Iran-13"
+  },
+  {
+    "name": "🇺🇸 United States-22",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.246.189:8119?#🇺🇸 United States-22"
+  },
+  {
+    "name": "🇺🇸 United States-23",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸 United States-23"
+  },
+  {
+    "name": "🇳🇱 Netherlands-56",
+    "protocol": "ss",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#🇳🇱 Netherlands-56"
+  },
+  {
+    "name": "🇺🇸 United States-24",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 United States-24"
+  },
+  {
+    "name": "🇩🇪 Germany-19",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#🇩🇪 Germany-19"
+  },
+  {
+    "name": "🇨🇦 Canada-10",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Canada-10"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-17",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#🇬🇧 United Kingdom-17"
+  },
+  {
+    "name": "🇺🇸 United States-25",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#🇺🇸 United States-25"
+  },
+  {
+    "name": "🇺🇸 United States-26",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#🇺🇸 United States-26"
+  },
+  {
+    "name": "🇨🇦 Canada-11",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Canada-11"
+  },
+  {
+    "name": "🇵🇱 Poland-11",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱 Poland-11"
+  },
+  {
+    "name": "🇮🇹 Italy",
+    "protocol": "ss",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy"
+  },
+  {
+    "name": "🇪🇸 Spain-05",
+    "protocol": "ss",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA@64.177.32.29:8388#🇪🇸 Spain-05"
+  },
+  {
+    "name": "🇨🇦 Canada-12",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": false,
+    "url": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Canada-12"
+  },
+  {
+    "name": "🇨🇦 Canada-13",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Canada-13"
+  },
+  {
+    "name": "🇺🇸 United States-27",
+    "protocol": "ss",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "ss://aes-256-gcm:Hi9wk14VntzGq7kq@154.12.242.150:80#🇺🇸 United States-27"
+  },
+  {
+    "name": "🇨🇦 Canada-14",
+    "protocol": "ss",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "live": true,
+    "url": "ss://aes-256-gcm:kDWvXYZoTBcGkC4@51.79.49.116:8882#🇨🇦 Canada-14"
+  },
+  {
+    "name": "🌍 CDN/Global",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=/?ed=2560#🌍 CDN/Global"
+  },
+  {
+    "name": "🌍 CDN/Global-02",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#🌍 CDN/Global-02"
+  },
+  {
+    "name": "🌍 CDN/Global-03",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev:2053?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.oyomohx.workers.dev&path=/?ed=2560#🌍 CDN/Global-03"
+  },
+  {
+    "name": "🌍 CDN/Global-04",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#🌍 CDN/Global-04"
+  },
+  {
+    "name": "🌍 Cloudflare",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?fp=unsafe&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&type=ws#🌍 Cloudflare"
+  },
+  {
+    "name": "🇺🇸 United States",
+    "protocol": "trojan",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🇺🇸 United States"
+  },
+  {
+    "name": "🇺🇸 United States-02",
+    "protocol": "trojan",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": false,
+    "url": "trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?security=tls&sni=us01.duotg.top&fp=chrome&type=tcp&headerType=none#🇺🇸 United States-02"
+  },
+  {
+    "name": "🌍 Cloudflare-02",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🌍 Cloudflare-02"
+  },
+  {
+    "name": "🇩🇪 Germany",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=tls&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&path=/trojan-ws#🇩🇪 Germany"
+  },
+  {
+    "name": "🌍 Cloudflare-03",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#🌍 Cloudflare-03"
+  },
+  {
+    "name": "🌍 CDN/Global-05",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://34420a42-f094-4ed8-8695-5caa4b518f62@bestcdn2.868863.xyz:2083/?type=ws&host=17882643858478.206352.xyz&path=/agraeabtegrrh&security=tls&sni=206352.xyz#🌍 CDN/Global-05"
+  },
+  {
+    "name": "🌍 CDN/Global-06",
+    "protocol": "trojan",
+    "country": "Global (CDN)",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://34420a42-f094-4ed8-8695-5caa4b518f62@bestcdn2.868863.xyz:2087/?type=ws&host=17882643855452.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#🌍 CDN/Global-06"
+  },
+  {
+    "name": "🇯🇵 Japan",
+    "protocol": "trojan",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "live": false,
+    "url": "trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 Japan"
+  },
+  {
+    "name": "🇩🇪 Germany-02",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "trojan://3cun8ob5macv9vpj@185.204.169.163:8080?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.169.163&fp=chrome&ech=AGL+DQBeAAAgACCnSdwYd8/Uxcw9H8QK09IGcb4Lt1HK/Xk28QgvSCw+TAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE2OS4xNjMAAA==&type=ws&allowInsecure=0&sni=185.204.169.163#🇩🇪 Germany-02"
+  },
+  {
+    "name": "🇮🇷 Iran",
+    "protocol": "trojan",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🇮🇷 Iran"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "trojan",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&type=tcp&headerType=none#🌍 Global"
+  },
+  {
+    "name": "🌍 Cloudflare-04",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🌍 Cloudflare-04"
+  },
+  {
+    "name": "🌍 Cloudflare-05",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@ThePackageCom#🌍 Cloudflare-05"
+  },
+  {
+    "name": "🇭🇰 Hong Kong",
+    "protocol": "trojan",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "live": false,
+    "url": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong"
+  },
+  {
+    "name": "🇭🇰 Hong Kong-02",
+    "protocol": "trojan",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "live": false,
+    "url": "trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong-02"
+  },
+  {
+    "name": "🇹🇷 Turkey",
+    "protocol": "trojan",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "live": false,
+    "url": "trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#🇹🇷 Turkey"
+  },
+  {
+    "name": "🇧🇾 Belarus",
+    "protocol": "trojan",
+    "country": "Belarus",
+    "flag": "🇧🇾",
+    "live": false,
+    "url": "trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#🇧🇾 Belarus"
+  },
+  {
+    "name": "🌍 Cloudflare-06",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-06"
+  },
+  {
+    "name": "🌍 Cloudflare-07",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-07"
+  },
+  {
+    "name": "🌍 Cloudflare-08",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-08"
+  },
+  {
+    "name": "🇩🇪 Germany-03",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "trojan://@Cooonfig@@91.107.174.133:14639?mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67#🇩🇪 Germany-03"
+  },
+  {
+    "name": "🌍 Fastly",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly"
+  },
+  {
+    "name": "🌍 Cloudflare-09",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://@UonVPN--@UonVPN---@UonVPN---@UonVPN@104.21.75.247:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&alpn=h2,http/1.1&fm={++\"tcp\"+:+[++++{++++++\"settings\"+:+{++++++++\"delay\"+:+\"0\",++++++++\"length\"+:+\"1\",++++++++\"maxSplit\"+:+\"\",++++++++\"packets\"+:+\"tlshello\"++++++},++++++\"type\"+:+\"fragment\"++++}++]}&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=uon.hp77o.eu.cc#🌍 Cloudflare-09"
+  },
+  {
+    "name": "🇩🇪 Germany-04",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": false,
+    "url": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#🇩🇪 Germany-04"
+  },
+  {
+    "name": "🇮🇷 Iran-02",
+    "protocol": "trojan",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=maps.google.com&sid=0d12eb289946de9b#🇮🇷 Iran-02"
+  },
+  {
+    "name": "🇮🇷 Iran-03",
+    "protocol": "trojan",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "live": false,
+    "url": "trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com&sid=0d12eb289946de9b#🇮🇷 Iran-03"
+  },
+  {
+    "name": "🇺🇸 United States-03",
+    "protocol": "trojan",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "live": true,
+    "url": "trojan://BxceQaOe@100.42.228.109:443?allowInsecure=1&sni=t.me/ripaojiedian#🇺🇸 United States-03"
+  },
+  {
+    "name": "🇭🇰 Hong Kong-03",
+    "protocol": "trojan",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "live": false,
+    "url": "trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇭🇰 Hong Kong-03"
+  },
+  {
+    "name": "🇩🇪 Germany-05",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "live": true,
+    "url": "trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪 Germany-05"
+  },
+  {
+    "name": "🇫🇮 Finland",
+    "protocol": "trojan",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "live": false,
+    "url": "trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#🇫🇮 Finland"
+  },
+  {
+    "name": "🇨🇭 Switzerland",
+    "protocol": "trojan",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "live": false,
+    "url": "trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#🇨🇭 Switzerland"
+  },
+  {
+    "name": "🇨🇭 Switzerland-02",
+    "protocol": "trojan",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "live": false,
+    "url": "trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇭 Switzerland-02"
+  },
+  {
+    "name": "🇨🇭 Switzerland-03",
+    "protocol": "trojan",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "live": false,
+    "url": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🇨🇭 Switzerland-03"
+  },
+  {
+    "name": "🌍 Fastly-02",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-02"
+  },
+  {
+    "name": "🌍 Fastly-03",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@140.248.75.254:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-03"
+  },
+  {
+    "name": "🌍 Fastly-04",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-04"
+  },
+  {
+    "name": "🌍 Fastly-05",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@151.101.56.230:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=MiTiVPN-MiTiVPN-MiTiVPN---MiTiVPN--MiTiVPN.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#🌍 Fastly-05"
+  },
+  {
+    "name": "🌍 Fastly-06",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06"
+  },
+  {
+    "name": "🌍 Fastly-07",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "live": true,
+    "url": "trojan://MiTiVPN@151.101.56.7:443?path=&security=tls&alpn=http/1.1&insecure=0&host=2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-07"
+  },
+  {
+    "name": "🌍 Global",
+    "protocol": "vmess",
+    "country": "Unknown",
+    "flag": "🌍",
+    "live": false,
+    "url": "vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJAUHJveHlWUE4xMSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyBAUHJveHlWUE4xMSIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🌍 Global"
+  }
+]
