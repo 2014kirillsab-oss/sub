@@ -6,7 +6,7 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 129,
+    "latency_ms": 157,
     "speed_mbps": 2.01,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27 ⚡"
   },
@@ -17,7 +17,7 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 117,
+    "latency_ms": 131,
     "speed_mbps": 0.43,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28 ⚡"
   },
@@ -28,31 +28,20 @@
     "flag": "🇺🇸",
     "fast": false,
     "verified": true,
-    "latency_ms": 1222,
+    "latency_ms": 1575,
     "speed_mbps": 0,
     "url": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇺🇸 United States-49"
   },
   {
-    "name": "🇬🇧 United Kingdom-17 ⚡",
+    "name": "🇺🇸 United States-26 ⚡",
     "protocol": "vless",
-    "country": "United Kingdom",
-    "flag": "🇬🇧",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 100,
-    "speed_mbps": null,
-    "url": "vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🇬🇧 United Kingdom-17 ⚡"
-  },
-  {
-    "name": "🇷🇺 Russia-37 ⚡",
-    "protocol": "vless",
-    "country": "Russia",
-    "flag": "🇷🇺",
+    "country": "United States",
+    "flag": "🇺🇸",
     "fast": true,
     "verified": true,
     "latency_ms": 101,
     "speed_mbps": null,
-    "url": "vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺 Russia-37 ⚡"
+    "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇺🇸 United States-26 ⚡"
   },
   {
     "name": "🇬🇧 United Kingdom-18 ⚡",
@@ -66,37 +55,26 @@
     "url": "vless://Telegram:@Free_VPN_CH@5.10.215.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🇬🇧 United Kingdom-18 ⚡"
   },
   {
-    "name": "🇺🇸 United States-26 ⚡",
+    "name": "🇬🇧 United Kingdom-17 ⚡",
     "protocol": "vless",
-    "country": "United States",
-    "flag": "🇺🇸",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
     "fast": true,
     "verified": true,
-    "latency_ms": 116,
+    "latency_ms": 110,
     "speed_mbps": null,
-    "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇺🇸 United States-26 ⚡"
+    "url": "vless://Telegram:@Free_VPN_CH@185.156.19.8:2096?encryption=none&security=tls&sni=tn1rr.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🇬🇧 United Kingdom-17 ⚡"
   },
   {
-    "name": "🇱🇻 Latvia-02 ⚡",
+    "name": "🇷🇺 Russia-37 ⚡",
     "protocol": "vless",
-    "country": "Latvia",
-    "flag": "🇱🇻",
+    "country": "Russia",
+    "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 130,
+    "latency_ms": 117,
     "speed_mbps": null,
-    "url": "vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🇱🇻 Latvia-02 ⚡"
-  },
-  {
-    "name": "🌍 Cloudflare-123 ⚡",
-    "protocol": "vless",
-    "country": "Cloudflare CDN",
-    "flag": "🌍",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 133,
-    "speed_mbps": null,
-    "url": "vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@104.17.163.123:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🌍 Cloudflare-123 ⚡"
+    "url": "vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺 Russia-37 ⚡"
   },
   {
     "name": "🌍 Cloudflare-251 ⚡",
@@ -105,9 +83,31 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 136,
+    "latency_ms": 126,
     "speed_mbps": null,
     "url": "vless://8663a9b2-2b3c-4bfd-8ffd-26436822346b@188.114.99.2:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=kurdnet.arianetmili.xyz&path=/random&security=tls&sni=kurdnet.arianetmili.xyz&type=httpupgrade#🌍 Cloudflare-251 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-123 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 130,
+    "speed_mbps": null,
+    "url": "vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@104.17.163.123:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🌍 Cloudflare-123 ⚡"
+  },
+  {
+    "name": "🇱🇻 Latvia-02 ⚡",
+    "protocol": "vless",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 136,
+    "speed_mbps": null,
+    "url": "vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🇱🇻 Latvia-02 ⚡"
   },
   {
     "name": "🌍 Cloudflare-139 ⚡",
@@ -116,20 +116,9 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 140,
+    "latency_ms": 143,
     "speed_mbps": null,
     "url": "vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&security=tls&sni=digiac.riziro.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=digiac.riziro.ir&path=/HOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&mode=auto&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-139 ⚡"
-  },
-  {
-    "name": "🇩🇪 Germany-31 ⚡",
-    "protocol": "vless",
-    "country": "Germany",
-    "flag": "🇩🇪",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 141,
-    "speed_mbps": null,
-    "url": "vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=e3e76808b9fcd591&security=reality&sni=conrad.de&headerType=none&fp=chrome#🇩🇪 Germany-31 ⚡"
   },
   {
     "name": "🇷🇺 Russia-36 ⚡",
@@ -138,20 +127,20 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 151,
+    "latency_ms": 147,
     "speed_mbps": null,
     "url": "vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇷🇺 Russia-36 ⚡"
   },
   {
-    "name": "🇫🇮 Finland-18 ⚡",
+    "name": "🇩🇪 Germany-31 ⚡",
     "protocol": "vless",
-    "country": "Finland",
-    "flag": "🇫🇮",
+    "country": "Germany",
+    "flag": "🇩🇪",
     "fast": true,
     "verified": true,
-    "latency_ms": 176,
+    "latency_ms": 150,
     "speed_mbps": null,
-    "url": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.66.173:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇫🇮 Finland-18 ⚡"
+    "url": "vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=e3e76808b9fcd591&security=reality&sni=conrad.de&headerType=none&fp=chrome#🇩🇪 Germany-31 ⚡"
   },
   {
     "name": "🌍 Cloudflare-121 ⚡",
@@ -160,9 +149,20 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 189,
+    "latency_ms": 157,
     "speed_mbps": null,
     "url": "vless://44c0592d-9ca2-47e1-a74a-a3c7524ca7c0@188.114.97.3:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=kurdnet.arianetmili.xyz&path=/full&security=tls&sni=kurdnet.arianetmili.xyz&type=ws#🌍 Cloudflare-121 ⚡"
+  },
+  {
+    "name": "🇫🇮 Finland-18 ⚡",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 162,
+    "speed_mbps": null,
+    "url": "vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.66.173:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇫🇮 Finland-18 ⚡"
   },
   {
     "name": "🇳🇱 Netherlands-11 ⚡",
@@ -171,7 +171,7 @@
     "flag": "🇳🇱",
     "fast": true,
     "verified": true,
-    "latency_ms": 193,
+    "latency_ms": 175,
     "speed_mbps": null,
     "url": "vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#🇳🇱 Netherlands-11 ⚡"
   }
