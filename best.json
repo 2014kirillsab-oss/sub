@@ -78,5 +78,85 @@
     "verified": true,
     "latency_ms": 154,
     "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06 ⚡"
+  },
+  {
+    "name": "🇨🇦 Canada ⚡",
+    "protocol": "trojan",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 154,
+    "url": "trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&Host=syndication-statutes-wanted-logo.trycloudflare.com#🇨🇦 Canada ⚡"
+  },
+  {
+    "name": "🌍 Fastly-07 ⚡",
+    "protocol": "trojan",
+    "country": "Fastly CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 155,
+    "url": "trojan://MiTiVPN@151.101.56.7:443?path=&security=tls&alpn=http/1.1&insecure=0&host=2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-07 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany ⚡",
+    "protocol": "vmess",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 163,
+    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMTUuNDEuMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLAogICAgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS04NS4yMTUuNDEuMTktMDE0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇩🇪 Germany ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-15 ⚡",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 171,
+    "url": "trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.88.77:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=/195.123.218.174-443&Host=blackshadow.dpdns.org#🌍 Cloudflare-15 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-05 ⚡",
+    "protocol": "trojan",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 174,
+    "url": "trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪 Germany-05 ⚡"
+  },
+  {
+    "name": "🇱🇹 Lithuania ⚡",
+    "protocol": "vmess",
+    "country": "Lithuania",
+    "flag": "🇱🇹",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 210,
+    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMDYuMTY1LjM2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTg1LjIwNi4xNjUuMzYtMDYyNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇱🇹 Lithuania ⚡"
+  },
+  {
+    "name": "🇺🇸 United States",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 430,
+    "url": "vmess://ewogICAgImFkZCI6ICIxNjEuMzUuMjI5Ljk0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTYxLjM1LjIyOS45NCIsCiAgICAiaWQiOiAiMjc4NDg3MzktN2U2Mi00MTM4LTlmZDMtMDk4YTYzOTY0YjZiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTE2MS4zNS4yMjkuOTQtMDU5NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇺🇸 United States"
+  },
+  {
+    "name": "🌍 Cloudflare-02",
+    "protocol": "vmess",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 699,
+    "url": "vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTY3LjEyMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm00LnYycmF5ZnJlZTEueHl6IiwKICAgICJpZCI6ICJmNWU3NGU2Ni0wMjQxLTQ0N2MtODNhNC1hNDAwNWY0Mzg1MzYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcmF5IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTY3LjEyMC0wMDE0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🌍 Cloudflare-02"
   }
 ]
