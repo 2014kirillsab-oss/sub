@@ -1,8 +1,10 @@
 # TOP ELITE - 16 fastest TLS-verified, 2026-09-13, fastest first
-# Real TLS handshake on every entry; handshake 281-1279 ms (0 marked fast)
-# 🇷🇺 Russia 4, 🌍 Cloudflare 4, 🇫🇷 France 1, 🇺🇸 United States 2, 🇩🇪 Germany 1, 🇮🇹 Italy 1, 🇫🇮 Finland 1, 🌍 Global 1, 🇳🇱 Netherlands 1
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28
+# Real TLS handshake on every entry; handshake 281-1712 ms (0 marked fast)
+# Real download speed tested; top-3: 1.74 MB/s, 1.2 MB/s, 0.48 MB/s
+# 🇷🇺 Russia 4, 🇺🇸 United States 3, 🌍 Cloudflare 4, 🇫🇷 France 1, 🇩🇪 Germany 1, 🇮🇹 Italy 1, 🇫🇮 Finland 1, 🌍 Global 1
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27
+vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇺🇸 United States-49
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28
 vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=chrome&note=@FreeOnlineVPN#🌍 Cloudflare-59
 vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&security=tls&sni=digiac.riziro.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=digiac.riziro.ir&path=/HOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🌍 Cloudflare-139
 vless://1f6722ab-20ed-4d13-bf7e-94375ebd92fa@104.16.22.21:2053?type=ws&encryption=none&host=fr.roomode.ir&security=tls&sni=fr.roomode.ir&path=/&fp=chrome&headerType=none#🌍 Cloudflare-51
@@ -16,4 +18,3 @@ vless://57c830ca-19a2-441c-811d-db5d81b86b47@116.204.164.17:7443?encryption=none
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇷🇺 Russia-36
 vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.66.173:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇫🇮 Finland-18
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🌍 Global-75
-vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.56.185.27:47010?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=akamai.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&spx=/HesarWeb#🇳🇱 Netherlands-15
