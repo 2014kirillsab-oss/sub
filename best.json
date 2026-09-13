@@ -1,16 +1,5 @@
 [
   {
-    "name": "🇷🇺 Russia-28",
-    "protocol": "vless",
-    "country": "Russia",
-    "flag": "🇷🇺",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 281,
-    "speed_mbps": 0.37,
-    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28"
-  },
-  {
     "name": "🇷🇺 Russia-27",
     "protocol": "vless",
     "country": "Russia",
@@ -18,8 +7,30 @@
     "fast": false,
     "verified": true,
     "latency_ms": 517,
-    "speed_mbps": 0.25,
+    "speed_mbps": 1.74,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27"
+  },
+  {
+    "name": "🇺🇸 United States-49",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 1712,
+    "speed_mbps": 1.2,
+    "url": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇺🇸 United States-49"
+  },
+  {
+    "name": "🇷🇺 Russia-28",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 281,
+    "speed_mbps": 0.48,
+    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28"
   },
   {
     "name": "🌍 Cloudflare-59",
@@ -163,16 +174,5 @@
     "latency_ms": 1258,
     "speed_mbps": null,
     "url": "trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🌍 Global-75"
-  },
-  {
-    "name": "🇳🇱 Netherlands-15",
-    "protocol": "vless",
-    "country": "Netherlands",
-    "flag": "🇳🇱",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 1279,
-    "speed_mbps": null,
-    "url": "vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@31.56.185.27:47010?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=akamai.com&fp=chrome&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&spx=/HesarWeb#🇳🇱 Netherlands-15"
   }
 ]
