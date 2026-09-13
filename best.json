@@ -7,7 +7,7 @@
     "fast": false,
     "verified": true,
     "latency_ms": 517,
-    "speed_mbps": 2.9,
+    "speed_mbps": 1.23,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27"
   },
   {
@@ -18,7 +18,7 @@
     "fast": false,
     "verified": true,
     "latency_ms": 1712,
-    "speed_mbps": 1.25,
+    "speed_mbps": 0.97,
     "url": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇺🇸 United States-49"
   },
   {
@@ -29,7 +29,7 @@
     "fast": false,
     "verified": true,
     "latency_ms": 281,
-    "speed_mbps": 0.48,
+    "speed_mbps": 0.42,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28"
   },
   {
