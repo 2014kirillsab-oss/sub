@@ -7,7 +7,7 @@
     "fast": false,
     "verified": true,
     "latency_ms": 517,
-    "speed_mbps": 1.23,
+    "speed_mbps": 2.24,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27"
   },
   {
@@ -29,7 +29,7 @@
     "fast": false,
     "verified": true,
     "latency_ms": 281,
-    "speed_mbps": 0.42,
+    "speed_mbps": 0.43,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28"
   },
   {
