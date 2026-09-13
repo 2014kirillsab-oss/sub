@@ -8,9 +8,9 @@
 |---|---|
 | **TOP ELITE — 16 лучших** (TLS проверены, быстрейшие первыми) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/best.txt` |
 | То же в base64-подписке | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/sub.txt` |
-| Все проверенные TLS (16) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/verified.txt` |
-| Живые VLESS/Trojan (≈85) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/vless_trojan.txt` |
-| Полный архив всех серверов (≈800) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/happ.txt` |
+| Все проверенные TLS (300+) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/verified.txt` |
+| Живые VLESS/Trojan (1500+) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/vless_trojan.txt` |
+| Полный архив всех серверов (7000+) | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/happ.txt` |
 | Элита в JSON | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/best.json` |
 | Все серверы в JSON | `https://raw.githubusercontent.com/2014kirillsab-oss/sub/main/sub.json` |
 
