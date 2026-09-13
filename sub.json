@@ -1120,14 +1120,14 @@
     "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#🇬🇧 United Kingdom-04 ⚡"
   },
   {
-    "name": "🇨🇦 Canada",
+    "name": "🇨🇦 Canada ⚡",
     "protocol": "ss",
     "country": "Canada",
     "flag": "🇨🇦",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 205,
-    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?type=tcp#🇨🇦 Canada"
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?type=tcp#🇨🇦 Canada ⚡"
   },
   {
     "name": "🇩🇪 Germany-07 ⚡",
@@ -1210,14 +1210,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cEdnLW1aenBvS1JONVRZUGc4STJR@cdn-2d12.giftcardbazarbot.com:8243#🌍 CDN/Global"
   },
   {
-    "name": "🇮🇩 Indonesia",
+    "name": "🇮🇩 Indonesia ⚡",
     "protocol": "ss",
     "country": "Indonesia",
     "flag": "🇮🇩",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 235,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg==@103.160.63.199:31348?type=tcp#🇮🇩 Indonesia"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg==@103.160.63.199:31348?type=tcp#🇮🇩 Indonesia ⚡"
   },
   {
     "name": "🇩🇪 Germany-08",
@@ -1250,14 +1250,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 Poland"
   },
   {
-    "name": "🇺🇸 United States-02",
+    "name": "🇺🇸 United States-02 ⚡",
     "protocol": "ss",
     "country": "United States",
     "flag": "🇺🇸",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 207,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#🇺🇸 United States-02"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#🇺🇸 United States-02 ⚡"
   },
   {
     "name": "🇷🇴 Romania",
@@ -1900,14 +1900,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#🇫🇷 France-02 ⚡"
   },
   {
-    "name": "🇺🇸 United States-06",
+    "name": "🇺🇸 United States-06 ⚡",
     "protocol": "ss",
     "country": "United States",
     "flag": "🇺🇸",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 222,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#🇺🇸 United States-06"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#🇺🇸 United States-06 ⚡"
   },
   {
     "name": "🇬🇧 United Kingdom-08",
@@ -2620,14 +2620,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🇳🇱 Netherlands-49"
   },
   {
-    "name": "🇳🇱 Netherlands-50",
+    "name": "🇳🇱 Netherlands-50 ⚡",
     "protocol": "ss",
     "country": "Netherlands",
     "flag": "🇳🇱",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 212,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#🇳🇱 Netherlands-50"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#🇳🇱 Netherlands-50 ⚡"
   },
   {
     "name": "🇳🇱 Netherlands-51",
@@ -2690,14 +2690,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#🇫🇮 Finland-03"
   },
   {
-    "name": "🇹🇷 Turkey-05",
+    "name": "🇹🇷 Turkey-05 ⚡",
     "protocol": "ss",
     "country": "Turkey",
     "flag": "🇹🇷",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 222,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🇹🇷 Turkey-05"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🇹🇷 Turkey-05 ⚡"
   },
   {
     "name": "🇭🇰 Hong Kong-02",
@@ -2970,14 +2970,14 @@
     "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@45.89.52.66:9003#🇹🇷 Turkey-07"
   },
   {
-    "name": "🇪🇸 Spain-04",
+    "name": "🇪🇸 Spain-04 ⚡",
     "protocol": "ss",
     "country": "Spain",
     "flag": "🇪🇸",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 214,
-    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🇪🇸 Spain-04"
+    "url": "ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🇪🇸 Spain-04 ⚡"
   },
   {
     "name": "🇵🇱 Poland-09",
@@ -3140,14 +3140,14 @@
     "url": "ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳 India-02"
   },
   {
-    "name": "🇫🇷 France-07",
+    "name": "🇫🇷 France-07 ⚡",
     "protocol": "ss",
     "country": "France",
     "flag": "🇫🇷",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 207,
-    "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#🇫🇷 France-07"
+    "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#🇫🇷 France-07 ⚡"
   },
   {
     "name": "🇺🇸 United States-16",
@@ -3170,24 +3170,24 @@
     "url": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🇺🇸 United States-17"
   },
   {
-    "name": "🇬🇧 United Kingdom-14",
+    "name": "🇬🇧 United Kingdom-14 ⚡",
     "protocol": "ss",
     "country": "United Kingdom",
     "flag": "🇬🇧",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 211,
-    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#🇬🇧 United Kingdom-14"
+    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443#🇬🇧 United Kingdom-14 ⚡"
   },
   {
-    "name": "🇬🇧 United Kingdom-15",
+    "name": "🇬🇧 United Kingdom-15 ⚡",
     "protocol": "ss",
     "country": "United Kingdom",
     "flag": "🇬🇧",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 218,
-    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80#🇬🇧 United Kingdom-15"
+    "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80#🇬🇧 United Kingdom-15 ⚡"
   },
   {
     "name": "🇮🇳 India-03",
@@ -3300,14 +3300,14 @@
     "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#🇺🇸 United States-21"
   },
   {
-    "name": "🇩🇰 Denmark",
+    "name": "🇩🇰 Denmark ⚡",
     "protocol": "ss",
     "country": "Denmark",
     "flag": "🇩🇰",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 222,
-    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#🇩🇰 Denmark"
+    "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#🇩🇰 Denmark ⚡"
   },
   {
     "name": "🇨🇦 Canada-09",
@@ -3390,14 +3390,14 @@
     "url": "ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Canada-10"
   },
   {
-    "name": "🇬🇧 United Kingdom-17",
+    "name": "🇬🇧 United Kingdom-17 ⚡",
     "protocol": "ss",
     "country": "United Kingdom",
     "flag": "🇬🇧",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 219,
-    "url": "ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#🇬🇧 United Kingdom-17"
+    "url": "ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#🇬🇧 United Kingdom-17 ⚡"
   },
   {
     "name": "🇺🇸 United States-25",
@@ -3450,14 +3450,14 @@
     "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy"
   },
   {
-    "name": "🇪🇸 Spain-05",
+    "name": "🇪🇸 Spain-05 ⚡",
     "protocol": "ss",
     "country": "Spain",
     "flag": "🇪🇸",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 248,
-    "url": "ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA@64.177.32.29:8388#🇪🇸 Spain-05"
+    "url": "ss://YWVzLTI1Ni1nY206d0JZaURqRER5RnFjQm5ObA@64.177.32.29:8388#🇪🇸 Spain-05 ⚡"
   },
   {
     "name": "🇨🇦 Canada-12",
@@ -3570,14 +3570,14 @@
     "url": "trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?security=tls&sni=us01.duotg.top&fp=chrome&type=tcp&headerType=none#🇺🇸 United States-02"
   },
   {
-    "name": "🌍 Cloudflare-02",
+    "name": "🌍 Cloudflare-02 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 208,
-    "url": "trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🌍 Cloudflare-02"
+    "url": "trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🌍 Cloudflare-02 ⚡"
   },
   {
     "name": "🇩🇪 Germany",
@@ -3590,14 +3590,14 @@
     "url": "trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&security=tls&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&path=/trojan-ws#🇩🇪 Germany"
   },
   {
-    "name": "🌍 Cloudflare-03",
+    "name": "🌍 Cloudflare-03 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 202,
-    "url": "trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#🌍 Cloudflare-03"
+    "url": "trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#🌍 Cloudflare-03 ⚡"
   },
   {
     "name": "🌍 CDN/Global-05",
@@ -3670,14 +3670,14 @@
     "url": "trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🌍 Cloudflare-04 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-05",
+    "name": "🌍 Cloudflare-05 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 202,
-    "url": "trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@ThePackageCom#🌍 Cloudflare-05"
+    "url": "trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@ThePackageCom#🌍 Cloudflare-05 ⚡"
   },
   {
     "name": "🇭🇰 Hong Kong",
@@ -3720,34 +3720,34 @@
     "url": "trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2,http/1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#🇧🇾 Belarus"
   },
   {
-    "name": "🌍 Cloudflare-06",
+    "name": "🌍 Cloudflare-06 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 206,
-    "url": "trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-06"
+    "url": "trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-06 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-07",
+    "name": "🌍 Cloudflare-07 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 208,
-    "url": "trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-07"
+    "url": "trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-07 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-08",
+    "name": "🌍 Cloudflare-08 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 204,
-    "url": "trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-08"
+    "url": "trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🌍 Cloudflare-08 ⚡"
   },
   {
     "name": "🇩🇪 Germany-03",
@@ -3760,14 +3760,14 @@
     "url": "trojan://@Cooonfig@@91.107.174.133:14639?mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67#🇩🇪 Germany-03"
   },
   {
-    "name": "🌍 Fastly",
+    "name": "🌍 Fastly ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 221,
-    "url": "trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly"
+    "url": "trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly ⚡"
   },
   {
     "name": "🌍 Cloudflare-09 ⚡",
@@ -3830,14 +3830,14 @@
     "url": "trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇭🇰 Hong Kong-03"
   },
   {
-    "name": "🇩🇪 Germany-05",
+    "name": "🇩🇪 Germany-05 ⚡",
     "protocol": "trojan",
     "country": "Germany",
     "flag": "🇩🇪",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 320,
-    "url": "trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪 Germany-05"
+    "url": "trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪 Germany-05 ⚡"
   },
   {
     "name": "🇫🇮 Finland",
@@ -3880,64 +3880,64 @@
     "url": "trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🇨🇭 Switzerland-03"
   },
   {
-    "name": "🌍 Fastly-02",
+    "name": "🌍 Fastly-02 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 221,
-    "url": "trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-02"
+    "url": "trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-02 ⚡"
   },
   {
-    "name": "🌍 Fastly-03",
+    "name": "🌍 Fastly-03 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 222,
-    "url": "trojan://MiTiVPN@140.248.75.254:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-03"
+    "url": "trojan://MiTiVPN@140.248.75.254:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-03 ⚡"
   },
   {
-    "name": "🌍 Fastly-04",
+    "name": "🌍 Fastly-04 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 223,
-    "url": "trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-04"
+    "url": "trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-04 ⚡"
   },
   {
-    "name": "🌍 Fastly-05",
+    "name": "🌍 Fastly-05 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 223,
-    "url": "trojan://MiTiVPN@151.101.56.230:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=MiTiVPN-MiTiVPN-MiTiVPN---MiTiVPN--MiTiVPN.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#🌍 Fastly-05"
+    "url": "trojan://MiTiVPN@151.101.56.230:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=MiTiVPN-MiTiVPN-MiTiVPN---MiTiVPN--MiTiVPN.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#🌍 Fastly-05 ⚡"
   },
   {
-    "name": "🌍 Fastly-06",
+    "name": "🌍 Fastly-06 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 222,
-    "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06"
+    "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06 ⚡"
   },
   {
-    "name": "🌍 Fastly-07",
+    "name": "🌍 Fastly-07 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 224,
-    "url": "trojan://MiTiVPN@151.101.56.7:443?path=&security=tls&alpn=http/1.1&insecure=0&host=2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-07"
+    "url": "trojan://MiTiVPN@151.101.56.7:443?path=&security=tls&alpn=http/1.1&insecure=0&host=2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-07 ⚡"
   },
   {
     "name": "🌍 Global",
@@ -3950,14 +3950,14 @@
     "url": "vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJAUHJveHlWUE4xMSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyBAUHJveHlWUE4xMSIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🌍 Global"
   },
   {
-    "name": "🌍 Fastly-08",
+    "name": "🌍 Fastly-08 ⚡",
     "protocol": "trojan",
     "country": "Fastly CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 227,
-    "url": "trojan://M%69TiVPN@199.232.78.101:443?path=---%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-08"
+    "url": "trojan://M%69TiVPN@199.232.78.101:443?path=---%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-08 ⚡"
   },
   {
     "name": "🌍 Global-03",
@@ -4040,14 +4040,14 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#🌍 Global-13"
   },
   {
-    "name": "🌍 Global-14",
+    "name": "🌍 Global-14 ⚡",
     "protocol": "ss",
     "country": "Global",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 237,
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1?type=tcp#🌍 Global-14"
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1?type=tcp#🌍 Global-14 ⚡"
   },
   {
     "name": "🌍 Global-15",
@@ -4510,14 +4510,14 @@
     "url": "trojan://32vs6mzwa3xkq7ex@185.204.168.28:2053?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=185.204.168.28&fp=chrome&ech=AGH+DQBdAAAgACDGXJKX+30rFFb7ZhchCxqfEJVmkuXsZwZW9enEy+MrDgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA4xODUuMjA0LjE2OC4yOAAA&type=ws&allowInsecure=0&sni=185.204.168.28#🌍 Global-04"
   },
   {
-    "name": "🌍 Cloudflare-10",
+    "name": "🌍 Cloudflare-10 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": false,
     "latency_ms": 226,
-    "url": "trojan://624209bb-8216-45fe-bbe0-50132ec63162@172.67.211.136:443?path=/x7f9k2m4p8&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ot2.hyas.space#🌍 Cloudflare-10"
+    "url": "trojan://624209bb-8216-45fe-bbe0-50132ec63162@172.67.211.136:443?path=/x7f9k2m4p8&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ot2.hyas.space#🌍 Cloudflare-10 ⚡"
   },
   {
     "name": "🌍 Global-05",
@@ -5390,14 +5390,14 @@
     "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:5000#🌍 Global-120"
   },
   {
-    "name": "🌍 Global-10",
+    "name": "🌍 Global-10 ⚡",
     "protocol": "vmess",
     "country": "Global",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 307,
-    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMTUuNDEuMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLAogICAgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS04NS4yMTUuNDEuMTktMDE0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🌍 Global-10"
+    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMTUuNDEuMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLAogICAgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS04NS4yMTUuNDEuMTktMDE0MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🌍 Global-10 ⚡"
   },
   {
     "name": "🌍 Global-121",
@@ -6290,14 +6290,14 @@
     "url": "vmess://ewogICAgImFkZCI6ICI0Ny4yNDQuMTIwLjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDM2NzAzLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctMDI1MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🌍 Global-14"
   },
   {
-    "name": "🌍 Cloudflare-03",
+    "name": "🌍 Cloudflare-03 ⚡",
     "protocol": "vmess",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 349,
-    "url": "vmess://ewogICAgImFkZCI6ICIxMDQuMTYuODkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ6aHV5b25nLmh1Y2xvdWQtZG5zLnh5eiIsCiAgICAiaWQiOiAiOWExOGNiYjEtODFkMi00NzIwLTlmMDktNDZlYTI3NmI2ZGRiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljg5LjQ0LTAyNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🌍 Cloudflare-03"
+    "url": "vmess://ewogICAgImFkZCI6ICIxMDQuMTYuODkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ6aHV5b25nLmh1Y2xvdWQtZG5zLnh5eiIsCiAgICAiaWQiOiAiOWExOGNiYjEtODFkMi00NzIwLTlmMDktNDZlYTI3NmI2ZGRiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljg5LjQ0LTAyNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🌍 Cloudflare-03 ⚡"
   },
   {
     "name": "🌍 Global-180",
@@ -7260,14 +7260,14 @@
     "url": "trojan://humanity@104.18.152.144:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🌍 Cloudflare-14"
   },
   {
-    "name": "🌍 Cloudflare-15",
+    "name": "🌍 Cloudflare-15 ⚡",
     "protocol": "trojan",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 351,
-    "url": "trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.88.77:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=/195.123.218.174-443&Host=blackshadow.dpdns.org#🌍 Cloudflare-15"
+    "url": "trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.88.77:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=/195.123.218.174-443&Host=blackshadow.dpdns.org#🌍 Cloudflare-15 ⚡"
   },
   {
     "name": "🌍 Cloudflare-16",
@@ -7550,14 +7550,14 @@
     "url": "vmess://ewogICAgImFkZCI6ICIxODUuMTA4LjEyOC42MCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS0xODUuMTA4LjEyOC42MC0wNjI2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=#🌍 Global-60"
   },
   {
-    "name": "🌍 Global-61",
+    "name": "🌍 Global-61 ⚡",
     "protocol": "vmess",
     "country": "Global",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 384,
-    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMDYuMTY1LjM2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTg1LjIwNi4xNjUuMzYtMDYyNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🌍 Global-61"
+    "url": "vmess://ewogICAgImFkZCI6ICI4NS4yMDYuMTY1LjM2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTg1LjIwNi4xNjUuMzYtMDYyNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🌍 Global-61 ⚡"
   },
   {
     "name": "🌍 Cloudflare-19",
@@ -7700,14 +7700,14 @@
     "url": "vmess://ewogICAgImFkZCI6ICIyMy4yMjcuMzguMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJwZXItZXNzZXgtcGF0dGVybnMtYm93bGluZy50cnljbG91ZGZsYXJlLmNvbSIsCiAgICAiaWQiOiAiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiOTI1ODE1M2EtZGM5Ny00ZTM5LTkwMzctMDA5YWJmYzRmZWQwLXZtIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMjMuMjI3LjM4LjIyLTA2NDUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🌍 Global-69"
   },
   {
-    "name": "🌍 Global-35",
+    "name": "🌍 Global-35 ⚡",
     "protocol": "trojan",
     "country": "Global",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
     "latency_ms": 392,
-    "url": "trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&Host=syndication-statutes-wanted-logo.trycloudflare.com#🌍 Global-35"
+    "url": "trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&Host=syndication-statutes-wanted-logo.trycloudflare.com#🌍 Global-35 ⚡"
   },
   {
     "name": "🌍 Global-70",
