@@ -3575,7 +3575,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 63,
     "url": "trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🌍 Cloudflare-02 ⚡"
   },
@@ -3765,7 +3765,7 @@
     "country": "Fastly CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 61,
     "url": "trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly ⚡"
   },
@@ -3885,7 +3885,7 @@
     "country": "Fastly CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 62,
     "url": "trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-02 ⚡"
   },
@@ -3905,7 +3905,7 @@
     "country": "Fastly CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 61,
     "url": "trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-04 ⚡"
   },
@@ -3925,7 +3925,7 @@
     "country": "Fastly CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 63,
     "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06 ⚡"
   },
@@ -6295,7 +6295,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 52,
     "url": "vmess://ewogICAgImFkZCI6ICIxMDQuMTYuODkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ6aHV5b25nLmh1Y2xvdWQtZG5zLnh5eiIsCiAgICAiaWQiOiAiOWExOGNiYjEtODFkMi00NzIwLTlmMDktNDZlYTI3NmI2ZGRiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljg5LjQ0LTAyNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🌍 Cloudflare-03 ⚡"
   },
@@ -7925,7 +7925,7 @@
     "country": "Global",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 63,
     "url": "trojan://MiTiVPN@167.82.76.27:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Global-36 ⚡"
   },
@@ -7935,7 +7935,7 @@
     "country": "Global",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 64,
     "url": "trojan://MiTiVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Global-37 ⚡"
   },
@@ -9495,7 +9495,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 30,
     "url": "vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🌍 Cloudflare-11 ⚡"
   },
@@ -18666,7 +18666,7 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 30,
+    "latency_ms": 28,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27 ⚡"
   },
   {
@@ -18676,7 +18676,7 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 30,
+    "latency_ms": 31,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28 ⚡"
   },
   {
@@ -32915,8 +32915,8 @@
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": true,
-    "verified": true,
-    "latency_ms": 25,
+    "verified": false,
+    "latency_ms": 28,
     "url": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#🇷🇺 Russia-78 ⚡"
   },
   {
@@ -35735,7 +35735,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 74,
     "url": "vmess://eyJhZGQiOiAiMTkzLjIzLjExOC4xOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#🇳🇱 Netherlands ⚡"
   },
@@ -72746,7 +72746,7 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 20,
+    "latency_ms": 51,
     "url": "vless://02722550-1915-4629-a653-cbe95e594f70@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={\"uplinkHTTPMethod\":\"GET\",\"uplinkDataPlacement\":\"body\",\"xPaddingBytes\":\"96-1040\",\"xPaddingObfsMode\":true,\"xPaddingMethod\":\"tokenish\",\"xPaddingPlacement\":\"queryInHeader\",\"xPaddingHeader\":\"X-Media-Token\",\"xPaddingKey\":\"_t\",\"sessionPlacement\":\"cookie\",\"sessionKey\":\"stream_auth\",\"sessionIDPlacement\":\"cookie\",\"sessionIDKey\":\"stream_auth\",\"seqPlacement\":\"cookie\",\"seqKey\":\"part_index\",\"uplinkChunkSize\":0,\"xmux\":{\"cMaxLifetimeMs\":0,\"cMaxReuseTimes\":\"24-64\",\"maxConcurrency\":\"4-8\",\"maxConnections\":0,\"hMaxRequestTimes\":\"160-320\",\"hMaxReusableSecs\":\"600-1200\"},\"scMaxEachPostBytes\":100000,\"scMinPostsIntervalMs\":70}&fp=chrome&host=cdnaapiv3.mediaeze.com&mode=packet-up&path=/api/v68/uptodown/&security=tls&sni=cdnaapiv3.mediaeze.com&type=xhttp#🇷🇺 Russia-88 ⚡"
   },
   {
@@ -72836,7 +72836,7 @@
     "flag": "🇱🇹",
     "fast": true,
     "verified": true,
-    "latency_ms": 32,
+    "latency_ms": 24,
     "url": "vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🇱🇹 Lithuania-06 ⚡"
   },
   {
@@ -72860,14 +72860,14 @@
     "url": "vless://122b8a33-d923-48a6-8f1b-e721cf842864@chatgpt.com:2052?path=/?ed=2560&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.www.speedtest.net.chatgpt.com.icloud.com.fiNeArTSnEt.COm.persianclouding.ir.&type=httpupgrade#🌍 Global-1465 ⚡"
   },
   {
-    "name": "🇮🇷 Iran-288",
+    "name": "🇮🇷 Iran-288 ⚡",
     "protocol": "vless",
     "country": "Iran",
     "flag": "🇮🇷",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 233,
-    "url": "vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#🇮🇷 Iran-288"
+    "url": "vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#🇮🇷 Iran-288 ⚡"
   },
   {
     "name": "🇮🇷 Iran-289 ⚡",
@@ -72986,7 +72986,7 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 48,
+    "latency_ms": 51,
     "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@104.17.135.117:2083?encryption=none&security=tls&sni=tr.novexgroup.ir&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=tr.novexgroup.ir&path=/assets/060d5a0237a377e5d62eae3a/5e7b25de6c161f941b99f303/sync&extra={\"scMaxEachPostBytes\":\"1000000\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-434 ⚡"
   },
   {
@@ -73185,7 +73185,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 71,
     "url": "vless://21cead0f-3553-4a83-82bf-12fe0d807ebc@20.103.221.187:443?path=/nyx&security=tls&encryption=none&insecure=0&host=ideal-happiness-wvgwxwp4g64xhp4g-3080.app.github.dev&fp=chrome&type=ws&allowInsecure=0&sni=ideal-happiness-wvgwxwp4g64xhp4g-3080.app.github.dev#🇳🇱 Netherlands-59 ⚡"
   },
@@ -73210,14 +73210,14 @@
     "url": "vless://2b181a3a-c001-4145-845a-5d43a43837d5@8.35.211.188:8443?encryption=none&fp=chrome&host=vpn-1fj.pages.dev&path=/&security=tls&sni=vpn-1fj.pages.dev&type=ws#🇺🇸 United States-120 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-438",
+    "name": "🌍 Cloudflare-438 ⚡",
     "protocol": "vless",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 33,
-    "url": "vless://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@104.21.10.29:443?security=tls&sni=cixoo.cixoo.store&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🌍 Cloudflare-438"
+    "url": "vless://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@104.21.10.29:443?security=tls&sni=cixoo.cixoo.store&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🌍 Cloudflare-438 ⚡"
   },
   {
     "name": "🌍 Global-1481",
@@ -73266,18 +73266,18 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 54,
+    "latency_ms": 46,
     "url": "vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@190.93.246.216:2087?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws/?ed=2048&fp=chrome&alpn=h2#🌍 Cloudflare-440 ⚡"
   },
   {
-    "name": "🇩🇪 Germany-108 ⚡",
+    "name": "🇩🇪 Germany-108",
     "protocol": "vless",
     "country": "Germany",
     "flag": "🇩🇪",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 531,
-    "url": "vless://371c0ca2-0ff1-45fa-a75f-4ff90d2dd25d@connect-de-b.gentleorchardprojectstudio.ir:2087?encryption=none&security=tls&sni=connect-de-b.gentleorchardprojectstudio.ir&alpn=h2&fp=chrome&type=ws&host=connect-de-b.gentleorchardprojectstudio.ir&path=/assets/v1/data#🇩🇪 Germany-108 ⚡"
+    "url": "vless://371c0ca2-0ff1-45fa-a75f-4ff90d2dd25d@connect-de-b.gentleorchardprojectstudio.ir:2087?encryption=none&security=tls&sni=connect-de-b.gentleorchardprojectstudio.ir&alpn=h2&fp=chrome&type=ws&host=connect-de-b.gentleorchardprojectstudio.ir&path=/assets/v1/data#🇩🇪 Germany-108"
   },
   {
     "name": "🌍 Global-1484",
@@ -73785,7 +73785,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 37,
     "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@104.21.72.250:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-482 ⚡"
   },
@@ -73795,7 +73795,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 37,
     "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@172.67.155.238:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-483 ⚡"
   },
@@ -73806,7 +73806,7 @@
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 50,
+    "latency_ms": 51,
     "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@188.114.96.10:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-484 ⚡"
   },
   {
@@ -73815,7 +73815,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 43,
     "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@188.114.97.2:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-485 ⚡"
   },
@@ -73825,19 +73825,19 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 303,
     "url": "vless://4925d57f-1fd6-4cf3-9640-c4cad64d604f@piki.speediihub.ir:2053?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.speedtest.net&pbk=80gx4VJQMhIOfst4X6MdcBqDSubKt5rPD9dB9LBTgwg&sid=7b9af11c1921713b#🇮🇷 Iran-299"
   },
   {
-    "name": "🇮🇷 Iran-300",
+    "name": "🇮🇷 Iran-300 ⚡",
     "protocol": "vless",
     "country": "Iran",
     "flag": "🇮🇷",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 172,
-    "url": "vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@re.lanzivo.ir:443?mode=stream-up&path=/&security=tls&encryption=none&insecure=0&host=re.lanzivo.ir&type=xhttp&allowInsecure=0&sni=re.lanzivo.ir#🇮🇷 Iran-300"
+    "url": "vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@re.lanzivo.ir:443?mode=stream-up&path=/&security=tls&encryption=none&insecure=0&host=re.lanzivo.ir&type=xhttp&allowInsecure=0&sni=re.lanzivo.ir#🇮🇷 Iran-300 ⚡"
   },
   {
     "name": "🇮🇷 Iran-301",
@@ -73845,7 +73845,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 286,
     "url": "vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@zs.lanzivo.ir:2083?mode=stream-up&path=/&security=tls&encryption=none&insecure=0&host=zs.lanzivo.ir&type=xhttp&allowInsecure=0&sni=zs.lanzivo.ir#🇮🇷 Iran-301"
   },
@@ -73855,7 +73855,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 258,
     "url": "vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@zs.lanzivo.ir:443?mode=stream-up&path=/&security=tls&encryption=none&insecure=0&host=zs.lanzivo.ir&type=xhttp&allowInsecure=0&sni=zs.lanzivo.ir#🇮🇷 Iran-302"
   },
@@ -73870,14 +73870,14 @@
     "url": "vless://50414e45-4c5f-5a45-5553-777129acbc66@y3z96wemu68s.elenor51.workers.dev:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/stream/PANEL_ZEUS/777129acbc66&security=tls&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=#🌍 CDN/Global-40"
   },
   {
-    "name": "🌍 CDN/Global-41 ⚡",
+    "name": "🌍 CDN/Global-41",
     "protocol": "vless",
     "country": "CDN/Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 324,
-    "url": "vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?encryption=none&fp=chrome&host=ez-30c541.aliminaie277.workers.dev&path=/stream/PANEL_ZEUS/d536262105ae&security=tls&sni=ez-30c541.aliminaie277.workers.dev&type=ws#🌍 CDN/Global-41 ⚡"
+    "url": "vless://50414e45-4c5f-5a45-5553-d536262105ae@ez-30c541.aliminaie277.workers.dev:443?encryption=none&fp=chrome&host=ez-30c541.aliminaie277.workers.dev&path=/stream/PANEL_ZEUS/d536262105ae&security=tls&sni=ez-30c541.aliminaie277.workers.dev&type=ws#🌍 CDN/Global-41"
   },
   {
     "name": "🇨🇾 CY-02 ⚡",
@@ -73890,14 +73890,14 @@
     "url": "vless://50414e45-4c5f-5a45-5553-f1c1a534fff4@77.37.33.199:443?path=/stream/PANEL_ZEUS/f1c1a534fff4/loc-0&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&host=4szh46e2u0es.78z444eku2ts.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=4szh46e2u0es.78z444eku2ts.workers.dev#🇨🇾 CY-02 ⚡"
   },
   {
-    "name": "🌍 CDN/Global-42 ⚡",
+    "name": "🌍 CDN/Global-42",
     "protocol": "vless",
     "country": "CDN/Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 301,
-    "url": "vless://56ff50da-a238-4646-95ab-dd159634bd87@ru01.arpanet-cdn.com:8200?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=3n5BtFuKdmxnispMzyAAsVthJxUnUZPPOJFcn_J__g4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#🌍 CDN/Global-42 ⚡"
+    "url": "vless://56ff50da-a238-4646-95ab-dd159634bd87@ru01.arpanet-cdn.com:8200?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=3n5BtFuKdmxnispMzyAAsVthJxUnUZPPOJFcn_J__g4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#🌍 CDN/Global-42"
   },
   {
     "name": "🌍 Global-1488",
@@ -73915,7 +73915,7 @@
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 27,
     "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@201.24.50.67:9892?mode=multi&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#🇷🇺 Russia-89 ⚡"
   },
@@ -74016,7 +74016,7 @@
     "flag": "🇺🇸",
     "fast": true,
     "verified": true,
-    "latency_ms": 26,
+    "latency_ms": 30,
     "url": "vless://73a65dd6-92d6-43ac-8c68-52abcfe6202d@199.33.231.87:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.OuWGRbBBHkUJHQYwAalW7p5eT8Wq9GA2VovyQQFULiQ&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=outland.manufacturingcity.ir&mode=auto&path=/main.html&security=tls&sni=outland.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-121 ⚡"
   },
   {
@@ -74035,7 +74035,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 38,
     "url": "vless://7557919a-ee28-4868-bc35-cfe69f3152cf@104.21.22.65:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=f3c8f5fa9dde.luicjz88010.workers.dev&type=ws#🌍 Cloudflare-488 ⚡"
   },
@@ -74045,7 +74045,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 38,
     "url": "vless://7557919a-ee28-4868-bc35-cfe69f3152cf@172.67.203.78:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=f3c8f5fa9dde.luicjz88010.workers.dev&type=ws#🌍 Cloudflare-489 ⚡"
   },
@@ -74055,7 +74055,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 35,
     "url": "vless://7557919a-ee28-4868-bc35-cfe69f3152cf@188.114.96.1:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=f3c8f5fa9dde.luicjz88010.workers.dev&type=ws#🌍 Cloudflare-490 ⚡"
   },
@@ -74065,7 +74065,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 77,
     "url": "vless://7557919a-ee28-4868-bc35-cfe69f3152cf@188.114.97.10:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=f3c8f5fa9dde.luicjz88010.workers.dev&type=ws#🌍 Cloudflare-491 ⚡"
   },
@@ -74085,19 +74085,19 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 41,
     "url": "vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&fp=chrome&alpn=h2,http/1.1#🌍 Cloudflare-492 ⚡"
   },
   {
-    "name": "🇺🇸 United States-122",
+    "name": "🇺🇸 United States-122 ⚡",
     "protocol": "vless",
     "country": "United States",
     "flag": "🇺🇸",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 221,
-    "url": "vless://77dc177b-79d9-49ac-92e1-2f1011faa5e3@45.149.172.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U3L2Aed8YfC7Aw2sRv_DJDnbOXVP-XUiyxQe3_h7LT8&security=reality&sid=626d38f0ea642e3b&sni=www.logitech.com&type=tcp#🇺🇸 United States-122"
+    "url": "vless://77dc177b-79d9-49ac-92e1-2f1011faa5e3@45.149.172.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U3L2Aed8YfC7Aw2sRv_DJDnbOXVP-XUiyxQe3_h7LT8&security=reality&sid=626d38f0ea642e3b&sni=www.logitech.com&type=tcp#🇺🇸 United States-122 ⚡"
   },
   {
     "name": "🌍 Cloudflare-493 ⚡",
@@ -74180,14 +74180,14 @@
     "url": "vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.241:80?type=ws&host=kr1.175852.xyz&path=/abcde#🌍 Cloudflare-496 ⚡"
   },
   {
-    "name": "🇮🇷 Iran-305 ⚡",
+    "name": "🇮🇷 Iran-305",
     "protocol": "vless",
     "country": "Iran",
     "flag": "🇮🇷",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 272,
-    "url": "vless://80c17f6f-4fbb-4055-b2b5-9f46ce00dd80@freeman.curtvbest.ir:57007?security=reality&encryption=none&pbk=xJrOVncq9U06-mrcoQMJRVT0ZI3pKiL870j_FYHnswg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=doctor-yab.ir&sid=86652c20afc7a2bc#🇮🇷 Iran-305 ⚡"
+    "url": "vless://80c17f6f-4fbb-4055-b2b5-9f46ce00dd80@freeman.curtvbest.ir:57007?security=reality&encryption=none&pbk=xJrOVncq9U06-mrcoQMJRVT0ZI3pKiL870j_FYHnswg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=doctor-yab.ir&sid=86652c20afc7a2bc#🇮🇷 Iran-305"
   },
   {
     "name": "🇮🇷 Iran-306 ⚡",
@@ -74195,7 +74195,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 132,
     "url": "vless://80c17f6f-4fbb-4055-b2b5-9f46ce00dd80@freeman.cvbesty.ir:10210?encryption=none&security=reality&sni=doctor-yab.ir&fp=chrome&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6&type=grpc#🇮🇷 Iran-306 ⚡"
   },
@@ -74235,7 +74235,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 66,
     "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@87.199.208.136:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 Netherlands-60 ⚡"
   },
@@ -74245,7 +74245,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 64,
     "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@89.124.120.136:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 Netherlands-61 ⚡"
   },
@@ -74280,14 +74280,14 @@
     "url": "vless://857af6ec-bce0-4a75-8fe0-ce56d3d67006@144.225.65.166:30117?mode=auto&path=/&security=reality&encryption=none&pbk=ZG4uwMF4ektZhd_Zpv7o4xB1dqFSwQp349QrGfgfdmo&fp=chrome&spx=/&type=xhttp&sni=amp-api-edge.apps.apple.com#🌍 Global-1497"
   },
   {
-    "name": "🇸🇬 Singapore-11",
+    "name": "🇸🇬 Singapore-11 ⚡",
     "protocol": "vless",
     "country": "Singapore",
     "flag": "🇸🇬",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 220,
-    "url": "vless://867e835d-b5a8-4ab2-aa93-ab8a7cc80470@8.219.144.195:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=qbsLW0C_w5YhxXuCO42VQU3wjmJu93mpAGBBbcfMLSM&sid=0c09d9bb1f10bc4d#🇸🇬 Singapore-11"
+    "url": "vless://867e835d-b5a8-4ab2-aa93-ab8a7cc80470@8.219.144.195:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=qbsLW0C_w5YhxXuCO42VQU3wjmJu93mpAGBBbcfMLSM&sid=0c09d9bb1f10bc4d#🇸🇬 Singapore-11 ⚡"
   },
   {
     "name": "🇮🇷 Iran-308",
@@ -74425,19 +74425,19 @@
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 408,
     "url": "vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa8.api3-max.ru:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=posa8.api3-max.ru#🇷🇺 Russia-91"
   },
   {
-    "name": "🇹🇷 Turkey-26",
+    "name": "🇹🇷 Turkey-26 ⚡",
     "protocol": "vless",
     "country": "Turkey",
     "flag": "🇹🇷",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 99,
-    "url": "vless://98c7936c-073e-456f-8992-dad9a7074602@144.225.65.178:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=www.upwork.com&sid=d7397feef49deef9#🇹🇷 Turkey-26"
+    "url": "vless://98c7936c-073e-456f-8992-dad9a7074602@144.225.65.178:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=www.upwork.com&sid=d7397feef49deef9#🇹🇷 Turkey-26 ⚡"
   },
   {
     "name": "🇮🇷 Iran-309",
@@ -74466,7 +74466,7 @@
     "flag": "🇺🇸",
     "fast": true,
     "verified": true,
-    "latency_ms": 25,
+    "latency_ms": 30,
     "url": "vless://9a199224-c098-4e0c-89de-98c8892567cb@155.46.213.182:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.x0MOFDivxkBiSqE5Ifj89Dr-FfMabYepWtVFMTjMgzI&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=daredevil.manufacturingcity.ir&mode=auto&path=/TelegramChannel:@daredevil_404&security=tls&sni=daredevil.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-125 ⚡"
   },
   {
@@ -74576,7 +74576,7 @@
     "flag": "🇺🇸",
     "fast": true,
     "verified": true,
-    "latency_ms": 30,
+    "latency_ms": 29,
     "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#🇺🇸 United States-126 ⚡"
   },
   {
@@ -74606,7 +74606,7 @@
     "flag": "🇬🇧",
     "fast": true,
     "verified": true,
-    "latency_ms": 30,
+    "latency_ms": 28,
     "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.193:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=/blue#🇬🇧 United Kingdom-46 ⚡"
   },
   {
@@ -74660,24 +74660,24 @@
     "url": "vless://a948fb83-9541-45db-88a9-c52a27038370@5.75.192.206:34255?path=5.75.192.206&security=&encryption=mlkem768x25519plus.native.0rtt.APWFWE0if8buWJAjWJOO9kEOCBja-VjMPlImFJGRJ1k&host=5.75.192.206&type=ws#🇩🇪 Germany-113 ⚡"
   },
   {
-    "name": "🌍 Global-1512 ⚡",
+    "name": "🌍 Global-1512",
     "protocol": "vless",
     "country": "Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1714,
-    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@api2.maxonelove.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=1.1.1.1&sid=08#🌍 Global-1512 ⚡"
+    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@api2.maxonelove.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=1.1.1.1&sid=08#🌍 Global-1512"
   },
   {
-    "name": "🌍 CDN/Global-43 ⚡",
+    "name": "🌍 CDN/Global-43",
     "protocol": "vless",
     "country": "CDN/Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1700,
-    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ee.cdn-update.rutube.info:20443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&fp=chrome&sni=dest1.cdn-update.rutube.info&sid=08#🌍 CDN/Global-43 ⚡"
+    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ee.cdn-update.rutube.info:20443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&fp=chrome&sni=dest1.cdn-update.rutube.info&sid=08#🌍 CDN/Global-43"
   },
   {
     "name": "🌍 Global-1513",
@@ -74690,14 +74690,14 @@
     "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ss97zvwnxq.miami-download.rutube.info:8444?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&fp=chrome&sni=nbcnews.com&sid=08#🌍 Global-1513"
   },
   {
-    "name": "🌍 Global-1514 ⚡",
+    "name": "🌍 Global-1514",
     "protocol": "vless",
     "country": "Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1725,
-    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=api5.vk-maps.net&sid=08#🌍 Global-1514 ⚡"
+    "url": "vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=api5.vk-maps.net&sid=08#🌍 Global-1514"
   },
   {
     "name": "🌍 CDN/Global-44",
@@ -74795,7 +74795,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 1549,
     "url": "vless://b9805557-932a-49bf-892d-edbfe78cdb85@16d3dccf464f296f.ainl.reknaro.ir:53966?path=/&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇮🇷 Iran-311"
   },
@@ -74810,14 +74810,14 @@
     "url": "vless://b9805557-932a-49bf-892d-edbfe78cdb85@c9f4ebdada6d914b.aide.reknaro.ir:46312?security=reality&encryption=none&pbk=LiNmk0DYhmt0yuiyYE183eCsPLWZ6bFEutMBLfqfwGI&headerType=none&fp=chrome&type=tcp&sni=partneredge.sap.com&sid=0c1fd5602216f902#🇮🇷 Iran-312"
   },
   {
-    "name": "🇳🇱 Netherlands-63",
+    "name": "🇳🇱 Netherlands-63 ⚡",
     "protocol": "vless",
     "country": "Netherlands",
     "flag": "🇳🇱",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 76,
-    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@185.192.22.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&security=reality&sni=hb.ru-msk.vkcloud-storage.ru&encryption=none&type=tcp&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&fp=chrome&headerType=none#🇳🇱 Netherlands-63"
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@185.192.22.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&security=reality&sni=hb.ru-msk.vkcloud-storage.ru&encryption=none&type=tcp&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&fp=chrome&headerType=none#🇳🇱 Netherlands-63 ⚡"
   },
   {
     "name": "🌍 Global-1520",
@@ -74830,14 +74830,14 @@
     "url": "vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.servers.gracevpnbuy.com&fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#🌍 Global-1520"
   },
   {
-    "name": "🇮🇷 Iran-313 ⚡",
+    "name": "🇮🇷 Iran-313",
     "protocol": "vless",
     "country": "Iran",
     "flag": "🇮🇷",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1527,
-    "url": "vless://bda30c78-6ff9-48f4-ac67-3729cd913172@gym.akfitness.ir:14312?security=reality&encryption=mlkem768x25519plus.native.0rtt.q9J8ZG3ahZVVQIh-cJGboFeacpjYHrKY-Yoie7Lfxk0&pbk=ItTQF0_tMtzAhNTYmQGN7aJGtaSPDChn09EQrnY4dBI&headerType=&fp=chrome&spx=/0b7f494b21341a4&type=tcp&sni=explore.amd.com&sid=0778#🇮🇷 Iran-313 ⚡"
+    "url": "vless://bda30c78-6ff9-48f4-ac67-3729cd913172@gym.akfitness.ir:14312?security=reality&encryption=mlkem768x25519plus.native.0rtt.q9J8ZG3ahZVVQIh-cJGboFeacpjYHrKY-Yoie7Lfxk0&pbk=ItTQF0_tMtzAhNTYmQGN7aJGtaSPDChn09EQrnY4dBI&headerType=&fp=chrome&spx=/0b7f494b21341a4&type=tcp&sni=explore.amd.com&sid=0778#🇮🇷 Iran-313"
   },
   {
     "name": "🇺🇸 United States-130 ⚡",
@@ -74865,7 +74865,7 @@
     "country": "Germany",
     "flag": "🇩🇪",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 79,
     "url": "vless://becd3b04-62a8-4b74-be67-be746008b4c2@31.70.64.90:443?path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=cdn-3123.spliceflowtech.com&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn-3123.spliceflowtech.com#🇩🇪 Germany-115 ⚡"
   },
@@ -75025,7 +75025,7 @@
     "country": "Germany",
     "flag": "🇩🇪",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 71,
     "url": "vless://d4129926-e77e-4cac-b1c7-e5d5e720ac23@91.107.150.147:23673?encryption=mlkem768x25519plus.native.0rtt._qP-cPEKzRy9FrxsnLoIcBjQLBAAnf2rHMVV5NjMEE8&type=tcp&security=reality&headerType=none&sni=play-apps-features.googleusercontent.com&fp=chrome&insecure=1&allowInsecure=1&pbk=JBoVn4h6_2g2iknDZZRloi0a8mBL74eN44EnbcDtp1Y&sid=e42de6016f8ad7b1#🇩🇪 Germany-116 ⚡"
   },
@@ -75065,7 +75065,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 1478,
     "url": "vless://d4129926-e77e-4cac-b1c7-e5d5e720ac23@mshsjshsuejeueiejgejdb.com.vahidzhv.ir:51263?encryption=mlkem768x25519plus.native.0rtt.z2lQdZuAvw8Z9sKuq4FPN9yFFy6avST0-wfa_U3r4ik&type=tcp&security=reality&headerType=none&sni=www.fnac.com&fp=chrome&insecure=1&allowInsecure=1&pbk=6-NCqGgOv0nBZSIEMECZh0yaA_IuGEl2Vr1IVvY5Kx0&sid=053fc431129db566#🇮🇷 Iran-319"
   },
@@ -75105,7 +75105,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 65,
     "url": "vless://d5e3a0e1-66e6-4ffa-b695-92484570a22d@185.222.160.185:443?security=reality&encryption=none&pbk=mBi2PpqpCcfwAy3Fkq5kqrs3SlZfS23j-dTYdMO4D1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mtalk.google.com&sid=4f8a2c91#🇳🇱 Netherlands-64 ⚡"
   },
@@ -75120,24 +75120,24 @@
     "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 United States-132 ⚡"
   },
   {
-    "name": "🇩🇪 Germany-117",
+    "name": "🇩🇪 Germany-117 ⚡",
     "protocol": "vless",
     "country": "Germany",
     "flag": "🇩🇪",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 69,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#🇩🇪 Germany-117"
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#🇩🇪 Germany-117 ⚡"
   },
   {
-    "name": "🇩🇪 Germany-118",
+    "name": "🇩🇪 Germany-118 ⚡",
     "protocol": "vless",
     "country": "Germany",
     "flag": "🇩🇪",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 90,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.219.193:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=be1.hat.onl&sid=76132b3b39704c44#🇩🇪 Germany-118"
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.219.193:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=be1.hat.onl&sid=76132b3b39704c44#🇩🇪 Germany-118 ⚡"
   },
   {
     "name": "🇱🇻 Latvia-03 ⚡",
@@ -75146,7 +75146,7 @@
     "flag": "🇱🇻",
     "fast": true,
     "verified": true,
-    "latency_ms": 38,
+    "latency_ms": 44,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.75.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none#🇱🇻 Latvia-03 ⚡"
   },
   {
@@ -75156,7 +75156,7 @@
     "flag": "🇸🇪",
     "fast": true,
     "verified": true,
-    "latency_ms": 39,
+    "latency_ms": 44,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@2.26.93.130:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se1.hat.onl&fp=chrome&pbk=0q-auqEPBR3lETnoHLdm7OVbM0DWZQq74z_JV7WznUk&sid=ff25c7e7c95baabf&type=tcp&headerType=none#🇸🇪 Sweden-13 ⚡"
   },
   {
@@ -75175,7 +75175,7 @@
     "country": "United Kingdom",
     "flag": "🇬🇧",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 89,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.60.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none#🇬🇧 United Kingdom-47 ⚡"
   },
@@ -75185,7 +75185,7 @@
     "country": "Czechia",
     "flag": "🇨🇿",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 88,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.7.238:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz2.hat.onl&sid=76132b3b39704c44#🇨🇿 Czechia-05 ⚡"
   },
@@ -75196,28 +75196,28 @@
     "flag": "🇫🇮",
     "fast": true,
     "verified": true,
-    "latency_ms": 40,
+    "latency_ms": 44,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&security=reality&type=tcp#🇫🇮 Finland-44 ⚡"
   },
   {
-    "name": "🇳🇱 Netherlands-65",
+    "name": "🇳🇱 Netherlands-65 ⚡",
     "protocol": "vless",
     "country": "Netherlands",
     "flag": "🇳🇱",
-    "fast": false,
-    "verified": true,
+    "fast": true,
+    "verified": false,
     "latency_ms": 99,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.hat.onl&fp=chrome&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&type=tcp&headerType=none#🇳🇱 Netherlands-65"
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl1.hat.onl&fp=chrome&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&type=tcp&headerType=none#🇳🇱 Netherlands-65 ⚡"
   },
   {
-    "name": "🇲🇾 Malaysia-02 ⚡",
+    "name": "🇲🇾 Malaysia-02",
     "protocol": "vless",
     "country": "Malaysia",
     "flag": "🇲🇾",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1390,
-    "url": "vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@s.yourvibe.my:443?mode=auto&path=/media/a32a5d&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#🇲🇾 Malaysia-02 ⚡"
+    "url": "vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@s.yourvibe.my:443?mode=auto&path=/media/a32a5d&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#🇲🇾 Malaysia-02"
   },
   {
     "name": "🌍 Global-1526",
@@ -75250,14 +75250,14 @@
     "url": "vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev:443?path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&png=Off&insecure=0&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=CgxGqchEiAMnA-jkS01FiDlsnqOjwF-S.ALIAmA.WOrKErS.DeV#🌍 CDN/Global-47"
   },
   {
-    "name": "🌍 Global-1528 ⚡",
+    "name": "🌍 Global-1528",
     "protocol": "vless",
     "country": "Global",
     "flag": "🌍",
-    "fast": true,
-    "verified": true,
+    "fast": false,
+    "verified": false,
     "latency_ms": 1164,
-    "url": "vless://d915fba6-d776-c48b-bd75-ce5b62a88648@x4g-production-9cd5.up.railway.app:443?path=/ws/d915fba6-d776-c48b-bd75-ce5b62a88648&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-9cd5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-9cd5.up.railway.app#🌍 Global-1528 ⚡"
+    "url": "vless://d915fba6-d776-c48b-bd75-ce5b62a88648@x4g-production-9cd5.up.railway.app:443?path=/ws/d915fba6-d776-c48b-bd75-ce5b62a88648&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-9cd5.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-9cd5.up.railway.app#🌍 Global-1528"
   },
   {
     "name": "🇩🇪 Germany-120 ⚡",
@@ -75265,7 +75265,7 @@
     "country": "Germany",
     "flag": "🇩🇪",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 71,
     "url": "vless://d97255e6-31b0-423f-ba40-689d9ebadce2@45.144.54.2:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#🇩🇪 Germany-120 ⚡"
   },
@@ -75325,7 +75325,7 @@
     "country": "Turkey",
     "flag": "🇹🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 1274,
     "url": "vless://ddaf0340-f28b-4144-ab00-f1c2d097dc62@vip.superturk.ir:2087?encryption=none&fp=chrome&pbk=5HzjqYhUmYpvQmxSXdEFnWUk9IggjXfgsTTFr0_F0zY&security=reality&sid=4b31&sni=telewebion.ir&spx=/03e311fccd343c9&type=tcp#🇹🇷 Turkey-27"
   },
@@ -75505,7 +75505,7 @@
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
-    "verified": true,
+    "verified": false,
     "latency_ms": 51,
     "url": "vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.95.243:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=/TG@juzibaipiao偷节点死吗#🌍 Cloudflare-511 ⚡"
   },
@@ -75595,7 +75595,7 @@
     "country": "Iran",
     "flag": "🇮🇷",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 640,
     "url": "vless://fa87edcc-4751-4d28-b53b-3abf7bee7ece@lp.mtcmicserver.ir:8080?encryption=none&security=reality&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=wegUSBXt8tLaCp7Ze22cuKJa-MQ0KRSe7BX1dDgLRQg&sid=b397faa58de7c5f3&type=grpc#🇮🇷 Iran-322"
   },
@@ -75885,7 +75885,7 @@
     "country": "Hong Kong",
     "flag": "🇭🇰",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 317,
     "url": "trojan://i99Cef@209.248.32.116:28101?security=tls#🇭🇰 Hong Kong-06"
   },
@@ -75905,7 +75905,7 @@
     "country": "Japan",
     "flag": "🇯🇵",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 1024,
     "url": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10011?security=tls&sni=www.cloudflare.com#🇯🇵 Japan-29"
   },
@@ -75915,7 +75915,7 @@
     "country": "Japan",
     "flag": "🇯🇵",
     "fast": false,
-    "verified": true,
+    "verified": false,
     "latency_ms": 760,
     "url": "trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10011?security=tls&sni=z-jp1.1card.cc#🇯🇵 Japan-30"
   },
@@ -75928,5 +75928,2005 @@
     "verified": false,
     "latency_ms": null,
     "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#🇰🇷 South Korea-06"
+  },
+  {
+    "name": "🇵🇭 Philippines",
+    "protocol": "ss",
+    "country": "Philippines",
+    "flag": "🇵🇭",
+    "fast": false,
+    "verified": false,
+    "latency_ms": 318,
+    "url": "ss://Channel:telegram:TurboConfigs@61.245.11.28:9090?encryption=none&headerType=http&host=play-apps-features.googleusercontent.com&path=/&security=none&type=tcp#🇵🇭 Philippines"
+  },
+  {
+    "name": "🌍 Global-1708",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ@167.233.188.191:4680#🌍 Global-1708"
+  },
+  {
+    "name": "🌍 Global-1709",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.192.158:803#🌍 Global-1709"
+  },
+  {
+    "name": "🌍 Global-1710",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.84:803#🌍 Global-1710"
+  },
+  {
+    "name": "🌍 Global-1711",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.225:804#🌍 Global-1711"
+  },
+  {
+    "name": "🌍 Global-1712",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@bia-t-o.outline-vpn.cloud:804#🌍 Global-1712"
+  },
+  {
+    "name": "🌍 Global-1713",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYa0g4ejk5Y1FndVE4eXdLNWpoVg@70.39.71.2:8389#🌍 Global-1713"
+  },
+  {
+    "name": "🌍 Global-1714",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPUAxMzcuMTMxLjE0Mi4xNTo1OTMxOQ==#🌍 Global-1714"
+  },
+  {
+    "name": "🌍 Global-1715",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@zhuanfayyds.xn--pssq69d.xyz:64160#🌍 Global-1715"
+  },
+  {
+    "name": "🌍 Global-1716",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#🌍 Global-1716"
+  },
+  {
+    "name": "🇩🇪 Germany-20",
+    "protocol": "ss",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#🇩🇪 Germany-20"
+  },
+  {
+    "name": "🇧🇷 Brazil-02",
+    "protocol": "ss",
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": 252,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg@147.45.116.44:443#🇧🇷 Brazil-02"
+  },
+  {
+    "name": "🇮🇳 India-04 ⚡",
+    "protocol": "ss",
+    "country": "India",
+    "flag": "🇮🇳",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 211,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳 India-04 ⚡"
+  },
+  {
+    "name": "🌍 Global-1717",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#🌍 Global-1717"
+  },
+  {
+    "name": "🌍 Global-1718",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#🌍 Global-1718"
+  },
+  {
+    "name": "🌍 Global-1719",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#🌍 Global-1719"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-20 ⚡",
+    "protocol": "ss",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 100,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.102.66:443#🇬🇧 United Kingdom-20 ⚡"
+  },
+  {
+    "name": "🌍 Global-1720",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#🌍 Global-1720"
+  },
+  {
+    "name": "🌍 Global-1721",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11036#🌍 Global-1721"
+  },
+  {
+    "name": "🌍 Global-1722",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🌍 Global-1722"
+  },
+  {
+    "name": "🌍 Global-1723",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@213.183.53.222:9059#🌍 Global-1723"
+  },
+  {
+    "name": "🇵🇱 Poland-38",
+    "protocol": "ss",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.18:9006#🇵🇱 Poland-38"
+  },
+  {
+    "name": "🌍 Global-1724",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.23:38388#🌍 Global-1724"
+  },
+  {
+    "name": "🌍 Global-1725",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.36:38388#🌍 Global-1725"
+  },
+  {
+    "name": "🌍 Global-1726",
+    "protocol": "ss",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "ss://YWVzLTI1Ni1jZmI6WWc0TWJkWEZROUhGRlZZNg==@185.135.86.175:9034#🌍 Global-1726"
+  },
+  {
+    "name": "🇰🇷 South Korea-07",
+    "protocol": "ss",
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": 260,
+    "url": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.87:443#🇰🇷 South Korea-07"
+  },
+  {
+    "name": "🌍 Global-538",
+    "protocol": "trojan",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "trojan://BfHJvwhj1p@159.200.230.201:57909?security=none&headerType=&type=tcp#🌍 Global-538"
+  },
+  {
+    "name": "🌍 Cloudflare-66 ⚡",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 42,
+    "url": "trojan://Telegram_healer_config@172.67.187.87:443?path=/tr/JIPAVWGHbaGJWIcEUAFGZIxrVCPW?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bKtF381b04NcHTXkN8TidEzQgF.TCNTH9s31mg1j4TNxLAD62O1s2o.wOrKErS.DEV#🌍 Cloudflare-66 ⚡"
+  },
+  {
+    "name": "🌍 Global-539",
+    "protocol": "trojan",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "trojan://YMBdLOdyD3@159.200.230.201:57809?security=none&headerType=none&type=tcp#🌍 Global-539"
+  },
+  {
+    "name": "🌍 Cloudflare-67 ⚡",
+    "protocol": "trojan",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 84,
+    "url": "trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🌍 Cloudflare-67 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-516 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 43,
+    "url": "vless://03a6f521-cba5-4cf5-92e8-196df9c11ae0@172.67.171.59:80?type=ws&host=Ch2.vless.site.&path=/vless#🌍 Cloudflare-516 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-133",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 309,
+    "url": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.175.82.213:443?type=tcp&security=reality&fp=chrome&encryption=none&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&sni=vovan.blackbigdog.com&flow=xtls-rprx-vision&headerType=none#🇺🇸 United States-133"
+  },
+  {
+    "name": "🌍 Cloudflare-517 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 84,
+    "url": "vless://0770c31f-bbf2-4c71-be1b-3ee6625ebba1@172.67.66.177:443?security=tls&sni=api4.htve.ir&type=ws&host=api4.htve.ir&path=/?ed=4096&fp=chrome&alpn=h2,http/1.1#🌍 Cloudflare-517 ⚡"
+  },
+  {
+    "name": "🇨🇿 Czechia-06 ⚡",
+    "protocol": "vless",
+    "country": "Czechia",
+    "flag": "🇨🇿",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 94,
+    "url": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&security=reality&sid=59ab2fc39ec55bc7&sni=edge-cz1.lovely.ceo&type=tcp#🇨🇿 Czechia-06 ⚡"
+  },
+  {
+    "name": "🌍 Global-1549 ⚡",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 115,
+    "url": "vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@edge-cz1.lovely.ceo:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#🌍 Global-1549 ⚡"
+  },
+  {
+    "name": "🇨🇿 Czechia-07 ⚡",
+    "protocol": "vless",
+    "country": "Czechia",
+    "flag": "🇨🇿",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 41,
+    "url": "vless://092f3363-3980-4c0f-a7e0-5a3a59511f1e@14.102.228.64:443?security=tls&sni=de2ocean.mohamadphp.ir&type=grpc&serviceName=vless-grpc&fp=chrome&alpn=http/1.1#🇨🇿 Czechia-07 ⚡"
+  },
+  {
+    "name": "🇵🇱 Poland-13 ⚡",
+    "protocol": "vless",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 70,
+    "url": "vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.61:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#🇵🇱 Poland-13 ⚡"
+  },
+  {
+    "name": "🌍 Global-1550",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://0eea2d4c-9bde-40a7-bf57-3d5a9a8caeab@89.124.94.83:40443?security=reality&encryption=none&pbk=i63mOV0i35u-2VR7mpaVC0XML1dS7s6XmzAlff50Eic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ec70d3b2b6298ba1#🌍 Global-1550"
+  },
+  {
+    "name": "🌍 Global-1551",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=chrome&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#🌍 Global-1551"
+  },
+  {
+    "name": "🇺🇸 United States-134 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 186,
+    "url": "vless://11f21602-47aa-42e2-9149-69120f2e6df6@45.91.138.179:443?security=reality&encryption=none&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us05.shifor01.life&sid=169fc2df88419465#🇺🇸 United States-134 ⚡"
+  },
+  {
+    "name": "🇷🇺 Russia-93 ⚡",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 35,
+    "url": "vless://16b37572-636e-4f46-8d45-203fccd4bff8@139.100.204.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=efmir.inrouge.today&fp=chrome&pbk=-pNxknNY1xAONI5bEKXsaFlnr803OxCS1xAn2pg92n0&sid=eb9ef5e48a9e92f6&type=tcp#🇷🇺 Russia-93 ⚡"
+  },
+  {
+    "name": "🌍 Global-1552 ⚡",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 69,
+    "url": "vless://16b37572-636e-4f46-8d45-203fccd4bff8@efmir.inrouge.today:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=efmir.inrouge.today&fp=chrome&pbk=-pNxknNY1xAONI5bEKXsaFlnr803OxCS1xAn2pg92n0&sid=eb9ef5e48a9e92f6&type=tcp#🌍 Global-1552 ⚡"
+  },
+  {
+    "name": "🌍 Global-1553",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🌍 Global-1553"
+  },
+  {
+    "name": "🇩🇪 Germany-121 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 80,
+    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@142.132.178.235:443?encryption=none&type=tcp#🇩🇪 Germany-121 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-324",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@3t0mwdsu3cvtwqdt8k0l.gorvexo.ir:443?security=reality&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=7a9fc61469bab24c#🇮🇷 Iran-324"
+  },
+  {
+    "name": "🌍 Global-1554",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://1ca43e4d-f65a-4027-a9bf-cfb7eb091661@176.65.151.67:19257?encryption=none&fm={\"udp\":[{\"settings\":{\"header\":\"\",\"value\":\"\"},\"type\":\"mkcp-legacy\"}]}&mtu=1350&security=none&tti=20&type=kcp#🌍 Global-1554"
+  },
+  {
+    "name": "🇮🇷 Iran-325",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://21415@shop.jarorobo.ir:8443?encryption=none&fp=chrome&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=/f28d14f3af842a2&type=tcp#🇮🇷 Iran-325"
+  },
+  {
+    "name": "🇺🇸 United States-135 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 81,
+    "url": "vless://2222222-f0e0-45d3-ba99-75a484cef223@66.33.22.236:36125?mode=auto&path=/&security=reality&encryption=none&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&pbk=8j1Tk92sG5j6KLrkO_ALQP-L3GczxH7N9QQda6FkHBo&fp=chrome&spx=/7814d7af1599441&type=xhttp&sni=softrankings.com&sid=ba#🇺🇸 United States-135 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-326 ⚡",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 391,
+    "url": "vless://22e2fb27-cb9e-40b3-9804-2e459bbba0eb@XM3.liiliil.ir:2093?encryption=none&security=tls&sni=tk.liiliil.ir&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=tk.liiliil.ir&path=/&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}#🇮🇷 Iran-326 ⚡"
+  },
+  {
+    "name": "🇮🇹 Italy-06 ⚡",
+    "protocol": "vless",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 73,
+    "url": "vless://2416ff70-cb17-4cdc-834d-a89c00261e01@116.204.164.5:7443?encryption=none&fp=chrome&host=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&path=/@Marisa_kristi&security=tls&sni=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&type=ws#🇮🇹 Italy-06 ⚡"
+  },
+  {
+    "name": "🌍 Global-1555",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://2a5b61dd-3728-4009-b608-dcf717aeaa88@31.47.42.34:36995?security=none&type=tcp&host=telewebion.com&headerType=http#🌍 Global-1555"
+  },
+  {
+    "name": "🌍 Global-1556",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.38:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🌍 Global-1556"
+  },
+  {
+    "name": "🌍 Global-1557",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.221.160.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🌍 Global-1557"
+  },
+  {
+    "name": "🇮🇷 Iran-327",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@e607890ef11ddc8a.rainzone.ir:8735?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1bfe954cb07fb70a#🇮🇷 Iran-327"
+  },
+  {
+    "name": "🇮🇷 Iran-328",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://2e050832-ad53-42ba-9fd3-cec1f74cb626@tur.crocodil.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=c077229044b68285#🇮🇷 Iran-328"
+  },
+  {
+    "name": "🇨🇭 Switzerland-02 ⚡",
+    "protocol": "vless",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 30,
+    "url": "vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=69565ce3109804e7813f98ee.mmdbay.blog&path=/graphql&sni=69565ce3109804e7813f98ee.mmdbay.blog&fp=chrome&alpn=h2,http/1.1#🇨🇭 Switzerland-02 ⚡"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-49 ⚡",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 80,
+    "url": "vless://2f3f58c9-7a49-4783-9722-7fcae7e3a203@37.221.110.249:2085?encryption=none&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom-49 ⚡"
+  },
+  {
+    "name": "🌍 Global-1558",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://301f9f35-73c7-4ae0-bbe9-7dd86da19f50@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=/XsnyR2MlsO4oUEr&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d04733f30a13#🌍 Global-1558"
+  },
+  {
+    "name": "🌍 Global-1559",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://3144bbc0-3763-4034-a417-e4e5c69920f9@94.101.179.224:8443?encryption=none&type=tcp&allowInsecure=1#🌍 Global-1559"
+  },
+  {
+    "name": "🇳🇱 Netherlands-67 ⚡",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 72,
+    "url": "vless://3a22ca95-bd99-4c6b-a799-f8f73930ea05@89.105.206.123:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=nl.convert-flow.net&type=tcp#🇳🇱 Netherlands-67 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-518 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 50,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.222.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-518 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-519 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 58,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.241.241:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-519 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-520 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 71,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.101.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-520 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-521 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 57,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.37:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-521 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-522 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 50,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.114.38:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-522 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-523 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.146.170:80?type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-523 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-524 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 51,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-524 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-525 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 54,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.63:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-525 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-526 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.180.130:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-526 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-527 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 57,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.187.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-527 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-528 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.193.102:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-528 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-529 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 53,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-529 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-530 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-530 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-531 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.62.229:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-531 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-532 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.62.231:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-532 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-533 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.24.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-533 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-534 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 75,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.80.253:80?type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-534 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-535 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.95:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-535 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-536 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.34.21:80?type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-536 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-537 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 68,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.75.94:80?security=none&type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-537 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-538",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.62.252:80?type=ws&host=us3.rtacg.com&path=/#🌍 Cloudflare-538"
+  },
+  {
+    "name": "🌍 Global-1560",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@91.107.173.92:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#🌍 Global-1560"
+  },
+  {
+    "name": "🇮🇷 Iran-329",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://46acb66f-dd0c-491a-b87e-8b0fbbec1be9@google28.horqen.ir:21289?security=none&type=tcp&headerType=none&path=&host=#🇮🇷 Iran-329"
+  },
+  {
+    "name": "🇹🇷 Turkey-28",
+    "protocol": "vless",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 118,
+    "url": "vless://4fa0a993-6003-45c1-991e-4c40eae45d38@153.52.92.95:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=play-apps-features.googleusercontent.com&fp=chrome&pbk=SfzKLQcFvQUq9t7zldsfai_gel-u2093qJXvn8sWlXY&sid=e940f4af3553f928#🇹🇷 Turkey-28"
+  },
+  {
+    "name": "🇹🇷 Turkey-29",
+    "protocol": "vless",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 103,
+    "url": "vless://4fa0a993-6003-45c1-991e-4c40eae45d38@87.120.106.181:8443?security=reality&encryption=none&pbk=UNxylQLY4RHp8gIhGvV5o5K_Xj053tFm6hkA6eOpZTM&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=641ca295f26e1a25#🇹🇷 Turkey-29"
+  },
+  {
+    "name": "🌍 Cloudflare-539 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.60.8:8880?security=none&type=ws&host=xn--7xvv6b.xn--gtvy9j.xn--vl1axf.xn--2024-965f794bzbu32k74w57mfzf.site.#🌍 Cloudflare-539 ⚡"
+  },
+  {
+    "name": "🌍 Global-1561",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@fu.baiproxy.us.ci:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fu.baiproxy.us.ci&path=/&security=tls&type=ws#🌍 Global-1561"
+  },
+  {
+    "name": "🇹🇷 Turkey-30",
+    "protocol": "vless",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 102,
+    "url": "vless://56831930-677b-4fdc-aa9a-46c9a77f9f7d@204.10.192.92:42452?security=reality&encryption=mlkem768x25519plus.native.0rtt.iJDWj9Lns5tx_5aUEJSSWlokbmvK6wWw0s9nNcVbvh0&pbk=mtn90iIV7DvC2QL_mpTWQigkoKDr5FIGhXt36AHuaGU&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=342ccbbf31566468#🇹🇷 Turkey-30"
+  },
+  {
+    "name": "🇮🇷 Iran-330",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://56831930-677b-4fdc-aa9a-46c9a77f9f7d@nbsowowujejrir.vipneninet.ir:56231?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇮🇷 Iran-330"
+  },
+  {
+    "name": "🌍 Cloudflare-540 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 70,
+    "url": "vless://56f27884-6e52-4c2d-9dbe-01c9ec240f03@104.21.33.129:2096?security=tls&sni=J0in-Telegram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🌍 Cloudflare-540 ⚡"
+  },
+  {
+    "name": "🌍 CDN/Global-49",
+    "protocol": "vless",
+    "country": "CDN/Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://56ff50da-a238-4646-95ab-dd159634bd87@ru02.arpanet-cdn.com:8300?security=reality&encryption=none&pbk=A2RzldrIeO5BH6ZH7BPWOEj_VxTR9Mpx9JAMZ4eLOlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#🌍 CDN/Global-49"
+  },
+  {
+    "name": "🌍 Global-1562",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@129.146.248.140:80?security=none&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=/aa#🌍 Global-1562"
+  },
+  {
+    "name": "🇩🇪 Germany-122",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://5e92bbdc-7061-4709-888c-31638dfada4e@de.ehsanazizi-speed-server.com:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=stream-one&path=/speed&security=tls&alpn=h2,http/1.1&encryption=none&extra={\"mode\":\"stream-one\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&type=xhttp#🇩🇪 Germany-122"
+  },
+  {
+    "name": "🇩🇪 Germany-123 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 176,
+    "url": "vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@2.27.59.255:443?encryption=none&host=et-ger.letsgodance.site&mode=auto&path=/xh&security=tls&sni=et-ger.letsgodance.site&type=xhttp#🇩🇪 Germany-123 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-124 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 65,
+    "url": "vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@72.56.106.245:443?path=/xh&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ger-03.letsgodance.site&fp=chrome&type=xhttp&allowInsecure=0&sni=ger-03.letsgodance.site#🇩🇪 Germany-124 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-125 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 157,
+    "url": "vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@94.183.238.15:443?encryption=none&host=ger-02.letsgodance.site&mode=auto&path=/xh&security=tls&sni=ger-02.letsgodance.site&type=xhttp#🇩🇪 Germany-125 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-541 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 44,
+    "url": "vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&fp=chrome&alpn=h2#🌍 Cloudflare-541 ⚡"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-50 ⚡",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 72,
+    "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=/&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#🇬🇧 United Kingdom-50 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-136 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 44,
+    "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.30:8880?encryption=none&host=vms.lifetime47.workers.dev&path=/&security=none&type=ws#🇺🇸 United States-136 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-126 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 73,
+    "url": "vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.228.154.112:2053?path=/static/media/video-chunk.f4v&security=tls&encryption=none&insecure=0&host=singapore.36109178.xyz&fp=chrome&type=ws&allowInsecure=0&sni=singapore.36109178.xyz#🇩🇪 Germany-126 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-542 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 44,
+    "url": "vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@104.20.18.168:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🌍 Cloudflare-542 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-137 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 44,
+    "url": "vless://6cc29a05-4828-4e48-a34a-20b7ada60e85@66.81.247.155:2083?path=/OAZko425kNFF0PpQ&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=testmikonim.hydrymhmdamyn7.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=testmikonim.hydrymhmdamyn7.workers.dev#🇺🇸 United States-137 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-127 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 72,
+    "url": "vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@140.82.34.114:25585?type=tcp&encryption=none&security=none#🇩🇪 Germany-127 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-543 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 72,
+    "url": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.147.104:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#🌍 Cloudflare-543 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-544 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 42,
+    "url": "vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.97:2087?security=tls&type=ws&path=/?ed=2560&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=none&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#🌍 Cloudflare-544 ⚡"
+  },
+  {
+    "name": "🇳🇱 Netherlands-68 ⚡",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 44,
+    "url": "vless://7a657573-23af-768c-8a29-df415ddb68d8@185.170.166.123:2087?encryption=none&fp=chrome&host=lbzkvtenuios.tik-tok-wold5514.workers.dev&path=/stream/PANEL_ZEUS/df415ddb68d8&security=tls&sni=lbzkvtenuios.tik-tok-wold5514.workers.dev&type=ws#🇳🇱 Netherlands-68 ⚡"
+  },
+  {
+    "name": "🇷🇺 Russia-94 ⚡",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 43,
+    "url": "vless://7c8ec0f2-c064-46d5-801e-11f144544a19@178.248.236.209:10443?security=reality&encryption=none&pbk=glb1LK20uecGGnJ5BErD-hLfJfyay4wG-CiN5YSjT3k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=561533e7f4#🇷🇺 Russia-94 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-545 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 72,
+    "url": "vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.97:80?type=ws&host=kr1.175852.xyz&path=/abcde#🌍 Cloudflare-545 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-546 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 63,
+    "url": "vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.47:80?type=ws&host=kr1.175852.xyz&path=/abcde#🌍 Cloudflare-546 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-547 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 63,
+    "url": "vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.154.147:80?type=ws&host=kr1.175852.xyz&path=/abcde#🌍 Cloudflare-547 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-331",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://7daf4e5b-cf52-4b6a-952e-5435c8160d5e@www.brianmorgan.ir:42314?encryption=none&fp=chrome&pbk=LPViwfCMM74xqoaSY7ZIO38CYQrLIlDgRMowiuhyKWs&security=reality&sid=52bdf8ea99&sni=play.google.com&spx=/bdbc0cfa1bdd614&type=tcp#🇮🇷 Iran-331"
+  },
+  {
+    "name": "🇬🇷 Greece-03 ⚡",
+    "protocol": "vless",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 106,
+    "url": "vless://824faea9-cafe-5fa1-90dd-46d975d22ca8@38.54.29.113:8553?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=C41m2OJvTIXOIo9KsTstW-4BggXA0BR3p3B7Ve5jkx8&sid=a141e13cdb91e888&type=tcp&headerType=none#🇬🇷 Greece-03 ⚡"
+  },
+  {
+    "name": "🌍 Global-1563",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://826f4c26-5e01-472d-a1f1-1bd8e2cb25fb@carina.yokkastars.com:3443?path=/rex-xhttp&security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&fp=chrome&type=xhttp&sni=deepl.com&sid=e496c7fe1cefc9ff#🌍 Global-1563"
+  },
+  {
+    "name": "🇳🇱 Netherlands-69 ⚡",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 76,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@138.124.98.170:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 Netherlands-69 ⚡"
+  },
+  {
+    "name": "🇳🇱 Netherlands-70 ⚡",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 76,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@138.124.98.172:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 Netherlands-70 ⚡"
+  },
+  {
+    "name": "🇳🇱 Netherlands-71",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 75,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@138.124.98.173:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 Netherlands-71"
+  },
+  {
+    "name": "🇫🇮 Finland-45 ⚡",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 63,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@144.31.156.247:5432?headerType=none&encryption=none&insecure=0&fp=chrome&flow=xtls-rprx-vision&type=tcp&allowInsecure=0&security=tls#🇫🇮 Finland-45 ⚡"
+  },
+  {
+    "name": "🌍 Global-1564",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@94.156.179.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=de.pinkmoon.pro&type=tcp#🌍 Global-1564"
+  },
+  {
+    "name": "🌍 Global-1565",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@nid3.pinkmoon.pro:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🌍 Global-1565"
+  },
+  {
+    "name": "🌍 Global-1566",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#🌍 Global-1566"
+  },
+  {
+    "name": "🌍 Cloudflare-548 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 42,
+    "url": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.212.157:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=/Z2xcIKzLEcHApagm?ed=2560&fp=chrome&alpn=h2,http/1.1#🌍 Cloudflare-548 ⚡"
+  },
+  {
+    "name": "🌍 Global-1567",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.57.13.107:443?security=tls&sni=vc.ylks.link&type=ws&path=/pkms9hrhvbpq1ikg?ed#🌍 Global-1567"
+  },
+  {
+    "name": "🇮🇷 Iran-332",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://8e9aff8f-9865-4dee-8dc4-ab73a6d0a1f5@google.parsclad.ir:33443?encryption=none&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=&mode=auto&path=/sergsergres&pbk=yiiCbCwWXPy2MixmgpS16WrPAfvI9Kz7UVfMQLOvdxQ&security=reality&sid=5b90&sni=blog.api.www.cloudflare.com&spx=/fc80088d0c52656&type=xhttp&x_padding_bytes=100-1000#🇮🇷 Iran-332"
+  },
+  {
+    "name": "🇮🇷 Iran-333",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://8e9aff8f-9865-4dee-8dc4-ab73a6d0a1f5@spin.parsclad.ir:48616?encryption=none&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=&mode=auto&path=/&pbk=jBlDcdXirk2mrI4RPeBydstaZdZqPNTLHn7qYjX2vwE&security=reality&sid=a0f66e&sni=aws-us-west-2.amazon.com&spx=/1512cc7289f819f&type=xhttp&x_padding_bytes=100-1000#🇮🇷 Iran-333"
+  },
+  {
+    "name": "🌍 Cloudflare-549 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 51,
+    "url": "vless://97ae62fd-e140-43e6-adbe-d776fa91ceea@162.159.152.152:443?security=tls&sni=join-v2rey.pages.dev&type=ws&host=join-v2rey.pages.dev&path=/---------DisVpn---------DisVpn---------DisVpn&fp=chrome#🌍 Cloudflare-549 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-128 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 83,
+    "url": "vless://@ZhilaVPN@ZhilaVPN@91.107.155.9:29792?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇩🇪 Germany-128 ⚡"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-51 ⚡",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 141,
+    "url": "vless://BD1F7E5E-9E0B-4919-A7F1-84BC9E69426D@51.194.251.114:61592?encryption=none&flow=xtls-rprx-vision&fp=&pbk=jnu0rNHECTe_v7H9Fmgg0iUSepHz4QQQRPW0XpX5URs&security=reality&sid=1359c9bf9f7442e5&sni=store.storeimages.cdn-apple.com&type=tcp#🇬🇧 United Kingdom-51 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-138 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 29,
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.191:443?security=tls&sni=hkb.ylks.link&type=ws&path=/#🇺🇸 United States-138 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-139 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 210,
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.16.136:4333?security=tls&sni=kkd.ylks.link&type=ws&host=kkd.ylks.link&path=TG@VPNine1-橘子分享#🇺🇸 United States-139 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-334 ⚡",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 80,
+    "url": "vless://a29b7d91-621b-4acc-a01f-f8f29e079e89@37.32.5.214:4550?encryption=mlkem768x25519plus.native.0rtt.k7kKZmijAjFqJDH8hP_RBOj6fYciRXHog_pcRedUewY&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=kCHZOw4ysg2w6eU7YYECafZgIOJca90W1XgDw4w8_TI&sid=7e7645906abbd773#🇮🇷 Iran-334 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-335 ⚡",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 125,
+    "url": "vless://a29b7d91-621b-4acc-a01f-f8f29e079e89@37.32.5.214:53820?encryption=mlkem768x25519plus.native.0rtt.xyT6zl09zm30sP8uyEjGY08kVXK-w-y57goqv8MTiQg&security=none&type=ws&headerType=none&path=/#🇮🇷 Iran-335 ⚡"
+  },
+  {
+    "name": "🇫🇷 France-18 ⚡",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 44,
+    "url": "vless://a42eec3c-9491-0280-04b3-0c9730410bfb@130.49.77.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/&security=reality&encryption=none&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🇫🇷 France-18 ⚡"
+  },
+  {
+    "name": "🇫🇷 France-19 ⚡",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 40,
+    "url": "vless://a42eec3c-9491-0280-04b3-0c9730410bfb@130.49.77.4:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇫🇷 France-19 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-140",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": false,
+    "verified": false,
+    "latency_ms": 262,
+    "url": "vless://a42eec3c-9491-0280-04b3-0c9730410bfb@140.235.168.4:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&fp=chrome&type=grpc&serviceName=TunService&sni=www.lenovo.com#🇺🇸 United States-140"
+  },
+  {
+    "name": "🇺🇦 Ukraine-05",
+    "protocol": "vless",
+    "country": "Ukraine",
+    "flag": "🇺🇦",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://a62a4c64-2270-4d41-828b-2591906c48ba@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=sweet-disk-a026.253-54b.workers.dev&packetEncoding=xudp#🇺🇦 Ukraine-05"
+  },
+  {
+    "name": "🇩🇪 Germany-129",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#🇩🇪 Germany-129"
+  },
+  {
+    "name": "🇸🇪 Sweden-15",
+    "protocol": "vless",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://ac64aec6-85ee-4fc7-b34b-60a7bcf236ec@newswedengrrrr.azadfug.ir:7005?encryption=none&security=reality&sni=play.googleapis.com&fp=chrome&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&type=tcp&headerType=none#🇸🇪 Sweden-15"
+  },
+  {
+    "name": "🇩🇪 Germany-130",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 1074,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@144.31.76.178:443?encryption=none&sni=hb.ru-msk.vkcloud-storage.ru&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&flow=xtls-rprx-vision&type=tcp&fp=chrome&security=reality&headerType=none#🇩🇪 Germany-130"
+  },
+  {
+    "name": "🌍 Global-1568",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@201.10.74.79:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hb.ru-msk.vkcloud-storage.ru#🌍 Global-1568"
+  },
+  {
+    "name": "🇷🇺 Russia-95",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@work.kadamilab.ru:443?security=reality&encryption=none&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hb.ru-msk.vkcloud-storage.ru#🇷🇺 Russia-95"
+  },
+  {
+    "name": "🇷🇺 Russia-96",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@work18.kadamilab.ru:443?headerType=none&type=tcp&flow=xtls-rprx-vision&security=reality&encryption=none&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&fp=chrome&sni=hb.ru-msk.vkcloud-storage.ru#🇷🇺 Russia-96"
+  },
+  {
+    "name": "🇷🇺 Russia-97",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@work20.kadamilab.ru:443?pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&encryption=none&flow=xtls-rprx-vision&headerType=none&security=reality&fp=chrome&type=tcp&sni=hb.ru-msk.vkcloud-storage.ru#🇷🇺 Russia-97"
+  },
+  {
+    "name": "🇷🇺 Russia-98",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://b9964fbf-7ea3-4883-9a3b-cca80ba8602d@work21.kadamilab.ru:443?security=reality&encryption=none&pbk=LJsl2DgOqknCTlIUAJ9RIp5-2L5chl_sOycmWzmeWgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hb.ru-msk.vkcloud-storage.ru#🇷🇺 Russia-98"
+  },
+  {
+    "name": "🌍 Cloudflare-550 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://c21ae3b0-8223-450d-851c-05b19b367755@104.21.44.106:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🌍 Cloudflare-550 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-551 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://c2c3de71-5ec5-430c-b096-81969b16ff8d@104.24.219.225:443?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=cdnfree.abdollahvand2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdnfree.abdollahvand2.ir#🌍 Cloudflare-551 ⚡"
+  },
+  {
+    "name": "🌍 Global-1569",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=plot.whit3.net&fp=chrome&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a&type=tcp#🌍 Global-1569"
+  },
+  {
+    "name": "🌍 Global-1570",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:4443?security=reality&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&type=xhttp&sni=plot.whit3.net&mode=auto&sid=0138875bd7d8725a&fp=chrome&path=/&encryption=none#🌍 Global-1570"
+  },
+  {
+    "name": "🌍 Global-1571",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://c3775c08-f354-40f4-9c1c-9d358ec2acfe@plot.whit3.net:8443?encryption=none&security=reality&sni=plot.whit3.net&fp=chrome&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&sid=0138875bd7d8725a&type=grpc&serviceName=plot_grpc#🌍 Global-1571"
+  },
+  {
+    "name": "🌍 Cloudflare-552 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 59,
+    "url": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?path=/ws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#🌍 Cloudflare-552 ⚡"
+  },
+  {
+    "name": "🌍 Global-1572",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@150.241.72.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=austria-3.moritech.net&type=tcp#🌍 Global-1572"
+  },
+  {
+    "name": "🇫🇮 Finland-46",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 59,
+    "url": "vless://d102275e-72dd-425b-8da7-08834bc1dfa4@193.35.17.133:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&sid=086007&allowInsecure=1#🇫🇮 Finland-46"
+  },
+  {
+    "name": "🇩🇪 Germany-131",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 65,
+    "url": "vless://d102275e-72dd-425b-8da7-08834bc1dfa4@87.120.187.192:8443?security=reality&encryption=none&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=a00661#🇩🇪 Germany-131"
+  },
+  {
+    "name": "🇩🇪 Germany-132",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d102275e-72dd-425b-8da7-08834bc1dfa4@de1.apexvpn.space:8443?security=reality&encryption=none&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=a00661#🇩🇪 Germany-132"
+  },
+  {
+    "name": "🇫🇮 Finland-47",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d102275e-72dd-425b-8da7-08834bc1dfa4@fin1.apexvpn.space:8443?security=reality&encryption=none&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&headerType=none&fp=chrome&spx=/7NBi5gASiWBYoyY&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=086007#🇫🇮 Finland-47"
+  },
+  {
+    "name": "🇮🇷 Iran-336",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d4591af1-ab6e-4eb1-b0dd-3442abce5108@TrReAl.12l.ir:41224?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=git.xpkg.ru&pbk=kd7PhGVRpWrYKYf4SdcRJwSiN6dadaX1nZqMSbXXsgU&sid=0f2f59d64d140a59#🇮🇷 Iran-336"
+  },
+  {
+    "name": "🇮🇷 Iran-337",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d4591af1-ab6e-4eb1-b0dd-3442abce5108@api.tenneltheducks.ir:2096?encryption=none&type=xhttp&mode=auto&host=DeGer-XhTt02.sezar.OrG&path=/ports/1106&security=tls&fp=chrome&sni=DeGer-XhTt02.sezar.OrG&alpn=h2,http/1.1&fragment=70-110,5-12,tlshello#🇮🇷 Iran-337"
+  },
+  {
+    "name": "🇮🇷 Iran-338",
+    "protocol": "vless",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d4591af1-ab6e-4eb1-b0dd-3442abce5108@api.tenneltheducks.ir:8880?encryption=none&type=httpupgrade&host=Mq848EaR.SeZaR.OrG&path=/&security=none#🇮🇷 Iran-338"
+  },
+  {
+    "name": "🇫🇷 France-20",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 77,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.214.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr2.hat.onl&fp=chrome&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9&type=tcp#🇫🇷 France-20"
+  },
+  {
+    "name": "🇦🇹 Austria-02 ⚡",
+    "protocol": "vless",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 100,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.72.43:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at1.hat.onl&sid=76132b3b39704c44#🇦🇹 Austria-02 ⚡"
+  },
+  {
+    "name": "🇪🇪 Estonia-07 ⚡",
+    "protocol": "vless",
+    "country": "Estonia",
+    "flag": "🇪🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 46,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@185.252.177.180:443?security=reality&encryption=none&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee1.hat.onl&sid=5a7216aec1371894#🇪🇪 Estonia-07 ⚡"
+  },
+  {
+    "name": "🇧🇬 Bulgaria",
+    "protocol": "vless",
+    "country": "Bulgaria",
+    "flag": "🇧🇬",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 84,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@195.123.226.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bg1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp#🇧🇬 Bulgaria"
+  },
+  {
+    "name": "🇵🇱 Poland-14",
+    "protocol": "vless",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 88,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@2.27.244.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl2.hat.onl&fp=chrome&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&sid=19d6296d2621d9fa&type=tcp&headerType=none#🇵🇱 Poland-14"
+  },
+  {
+    "name": "🇷🇺 Russia-99 ⚡",
+    "protocol": "vless",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 36,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.128.36.48:443?security=reality&encryption=none&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bzzru.hat.apruxdomain.space&sid=b2ba734eff38baa9#🇷🇺 Russia-99 ⚡"
+  },
+  {
+    "name": "🇨🇭 Switzerland-03 ⚡",
+    "protocol": "vless",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 77,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.4.75:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch1.hat.onl&sid=76132b3b39704c44#🇨🇭 Switzerland-03 ⚡"
+  },
+  {
+    "name": "🇳🇴 Norway-03",
+    "protocol": "vless",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 46,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.5.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=no2.hat.onl&fp=chrome&pbk=ZuoEro9dqmpJBUhzLRhqSo3_aedFWMoFYPCcOgqb1xA&sid=9d8cb788a9863bc0&type=tcp&headerType=none#🇳🇴 Norway-03"
+  },
+  {
+    "name": "🇯🇵 Japan-12",
+    "protocol": "vless",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 291,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.91.202:443?security=reality&encryption=none&pbk=me6tyn-I8IolkgJK4sggSsC9sinhkLPBdPwtVlPk5TI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp1.hat.onl&sid=0d6903ea350815e1#🇯🇵 Japan-12"
+  },
+  {
+    "name": "🇳🇱 Netherlands-72",
+    "protocol": "vless",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 81,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.77.219:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl2.hat.onl&sid=054602d818379876#🇳🇱 Netherlands-72"
+  },
+  {
+    "name": "🇷🇴 Romania-04 ⚡",
+    "protocol": "vless",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 99,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#🇷🇴 Romania-04 ⚡"
+  },
+  {
+    "name": "🇦🇿 Azerbaijan ⚡",
+    "protocol": "vless",
+    "country": "Azerbaijan",
+    "flag": "🇦🇿",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 79,
+    "url": "vless://d6c178d6-4594-4031-9870-2d5e1663d55d@180.149.44.13:443?encryption=none&type=tcp&headerType=none&security=none#🇦🇿 Azerbaijan ⚡"
+  },
+  {
+    "name": "🌍 Global-1573",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d6c178d6-4594-4031-9870-2d5e1663d55d@209.50.60.243:443?encryption=none&type=tcp&headerType=none&security=none#🌍 Global-1573"
+  },
+  {
+    "name": "🌍 Cloudflare-553 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 37,
+    "url": "vless://d7602ecf-954c-4ac6-9477-46e080bbae1f@172.67.128.238:443?security=tls&sni=joinmahdiserver.rmgqthp.workers.dev&type=ws&host=joinmahdiserver.rmgqthp.workers.dev&path=/?ed=2048&fp=chrome#🌍 Cloudflare-553 ⚡"
+  },
+  {
+    "name": "🌍 CDN/Global-50",
+    "protocol": "vless",
+    "country": "CDN/Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://d8f6e2ad-4f85-83c2-c9b0-0419bb31e68c@eagle-0bfb14.jsjsjejehdhdhdhe.workers.dev:443?path=/ws/d8f6e2ad-4f85-83c2-c9b0-0419bb31e68c&security=tls&encryption=none&insecure=0&host=eagle-0bfb14.jsjsjejehdhdhdhe.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=eagle-0bfb14.jsjsjejehdhdhdhe.workers.dev#🌍 CDN/Global-50"
+  },
+  {
+    "name": "🌍 Cloudflare-554 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 51,
+    "url": "vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.124.175:8080?security=none&type=ws&host=de7.vlessx.us#🌍 Cloudflare-554 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-133 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 115,
+    "url": "vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?path=/nl01-ws-8e47a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hub-nl-01.hanvpn.cc&fp=chrome&type=ws&allowInsecure=0&sni=hub-nl-01.hanvpn.cc#🇩🇪 Germany-133 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-555 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 52,
+    "url": "vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.187.117:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed=2048#🌍 Cloudflare-555 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-556 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 39,
+    "url": "vless://d9f94532-c4d4-4f94-ba23-6eb6d35bfc7d@104.21.54.140:443?path=/eyJqdW5rIjoiZW5GMjJSRmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=tls&encryption=none&insecure=0&host=small-scene-f215.amiralizarefast1.workers.dev&type=ws&allowInsecure=0&sni=small-scene-f215.amiralizarefast1.workers.dev#🌍 Cloudflare-556 ⚡"
+  },
+  {
+    "name": "🌍 Global-1574",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?security=reality&sni=github.com&fp=chrome&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🌍 Global-1574"
+  },
+  {
+    "name": "🇫🇷 France-21",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.17.252:22222?encryption=none&security=none&type=tcp#🇫🇷 France-21"
+  },
+  {
+    "name": "🇫🇷 France-22 ⚡",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 77,
+    "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.17.252:22223?encryption=none&security=none&type=tcp#🇫🇷 France-22 ⚡"
+  },
+  {
+    "name": "🇫🇷 France-23 ⚡",
+    "protocol": "vless",
+    "country": "France",
+    "flag": "🇫🇷",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 79,
+    "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.17.252:22224?encryption=none&security=none&type=tcp#🇫🇷 France-23 ⚡"
+  },
+  {
+    "name": "🌍 Global-1575",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.206.205:22222?encryption=none&security=none&type=tcp#🌍 Global-1575"
+  },
+  {
+    "name": "🌍 Global-1576",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryption=none&headerType=none&type=tcp#🌍 Global-1576"
+  },
+  {
+    "name": "🌍 Global-1577",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.10:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🌍 Global-1577"
+  },
+  {
+    "name": "🌍 Global-1578",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://f053b140-9673-4ac5-bc8b-587bfd2c8fd8@54.255.121.205:43840?security=reality&encryption=none&pbk=tDzxVcXg6zzA1r0I_1j2y4vE0zkgmIVX3_Jf0UG1AnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ac4b9f02123aa50b#🌍 Global-1578"
+  },
+  {
+    "name": "🌍 Cloudflare-557 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 69,
+    "url": "vless://f075b138-4e46-4022-a625-c5dfe4ddf19c@172.67.193.157:8443?security=tls&sni=free.smelean.ir&type=grpc&serviceName=/@Mmd_V2rayng-@MikasaVpn?ed=2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🌍 Cloudflare-557 ⚡"
+  },
+  {
+    "name": "🇫🇮 Finland-48 ⚡",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 70,
+    "url": "vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.42.33:443?security=reality&encryption=none&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.willo.help&sid=abcd1234#🇫🇮 Finland-48 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-141",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 206,
+    "url": "vless://f297db4d-b4f3-42a2-a6cb-38daa1017fff@134.195.101.122:443?security=reality&encryption=none&pbk=ptYLYuVba16lu-OtadiE8Wd-cGHHVZh0XkxVUqrhmDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mi.com&sid=2546d239#🇺🇸 United States-141"
+  },
+  {
+    "name": "🌍 Global-1579",
+    "protocol": "vless",
+    "country": "Global",
+    "flag": "🌍",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vless://f82da4e4-46b4-43ce-82a5-d92f9750c91f@94.182.136.242:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp&host=google.com&headerType=http#🌍 Global-1579"
+  },
+  {
+    "name": "🇫🇮 Finland-03 ⚡",
+    "protocol": "vmess",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 46,
+    "url": "vmess://eyJhZGQiOiAiNjUuMTA5LjE4NC4xNTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImE2Zjc1OGYwLTBhNDAtNDg0NC1iNGQ1LWU0MmQ3MWE1ZGE2NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇫🇮 Finland-03 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-19",
+    "protocol": "vmess",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vmess://eyJhZGQiOiAic3VwZXJwYW5lbC5zb2J1LmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmZjJjMmZlOS0yNjRjLTRlNmMtOGRhYS04ZWJmY2U3ZmVmMGUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjUwMjUiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#🇮🇷 Iran-19"
+  },
+  {
+    "name": "🇺🇸 United States-37 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 202,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuNTMiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇺🇸 United States-37 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-38 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 203,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuNTYiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇺🇸 United States-38 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-39 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 196,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMTEiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇺🇸 United States-39 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-40 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 201,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMTM5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇺🇸 United States-40 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-41 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 205,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMTQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇺🇸 United States-41 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-42 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 196,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMTQxIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇺🇸 United States-42 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-43 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 207,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMTQyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#🇺🇸 United States-43 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-44 ⚡",
+    "protocol": "vmess",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": false,
+    "latency_ms": 203,
+    "url": "vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMzAiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#🇺🇸 United States-44 ⚡"
+  },
+  {
+    "name": "🇮🇷 Iran-20",
+    "protocol": "vmess",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vmess://eyJhZGQiOiAiU25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaXJhbjIuc3BlZWRscm4uY29tIiwgImlkIjogIjhhMjc3MzU2LWRiZDItNDQ5Mi1iOTYxLWM3NjBiN2NmM2RkMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc2VjdXIiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=#🇮🇷 Iran-20"
+  },
+  {
+    "name": "🇮🇷 Iran-21",
+    "protocol": "vmess",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "fast": false,
+    "verified": false,
+    "latency_ms": null,
+    "url": "vmess://eyJhZGQiOiAiU25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaXJhbjMuc3BlZWRscm4uY29tIiwgImlkIjogIjhhMjc3MzU2LWRiZDItNDQ5Mi1iOTYxLWM3NjBiN2NmM2RkMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmV3IiwgInBvcnQiOiAiMjA4MiIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9#🇮🇷 Iran-21"
   }
 ]
