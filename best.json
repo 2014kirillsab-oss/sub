@@ -1,47 +1,36 @@
 [
   {
-    "name": "🇷🇺 Russia-27",
+    "name": "🇷🇺 Russia-27 ⚡",
     "protocol": "vless",
     "country": "Russia",
     "flag": "🇷🇺",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 734,
+    "latency_ms": 138,
     "speed_mbps": 2.95,
-    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27"
+    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27 ⚡"
   },
   {
-    "name": "🇺🇸 United States-49",
-    "protocol": "vless",
-    "country": "United States",
-    "flag": "🇺🇸",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 3153,
-    "speed_mbps": 1.27,
-    "url": "vless://8bf3e040-8ac9-5d0e-304f-9b735e145de8@147.78.182.3:8443?encryption=none&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇺🇸 United States-49"
-  },
-  {
-    "name": "🇷🇺 Russia-28",
+    "name": "🇷🇺 Russia-28 ⚡",
     "protocol": "vless",
     "country": "Russia",
     "flag": "🇷🇺",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 738,
+    "latency_ms": 144,
     "speed_mbps": 0.59,
-    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28"
+    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🇷🇺 Russia-28 ⚡"
   },
   {
-    "name": "🇳🇱 Netherlands",
+    "name": "🇳🇱 Netherlands ⚡",
     "protocol": "vmess",
     "country": "Netherlands",
     "flag": "🇳🇱",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 1734,
+    "latency_ms": 221,
     "speed_mbps": 0.35,
-    "url": "vmess://eyJhZGQiOiAiMTkzLjIzLjExOC4xOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#🇳🇱 Netherlands"
+    "url": "vmess://eyJhZGQiOiAiMTkzLjIzLjExOC4xOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#🇳🇱 Netherlands ⚡"
   },
   {
     "name": "🇷🇺 Russia-78 ⚡",
@@ -50,129 +39,140 @@
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 186,
+    "latency_ms": 59,
     "speed_mbps": null,
     "url": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#🇷🇺 Russia-78 ⚡"
   },
   {
-    "name": "🇩🇪 Germany-101",
+    "name": "🇷🇺 Russia-88 ⚡",
     "protocol": "vless",
-    "country": "Germany",
-    "flag": "🇩🇪",
-    "fast": false,
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "fast": true,
     "verified": true,
-    "latency_ms": 270,
+    "latency_ms": 68,
     "speed_mbps": null,
-    "url": "vless://533e12d0-f7d8-4b8e-983a-f5fa586a3519@2.27.59.147:2059?encryption=none&security=reality&serviceName=ApiMapsYandex&sni=api-maps.yandex.ru&fp=chrome&type=grpc&pbk=FtdsU_DLWDJ1Fk7NESJAy_S0ezFFL_gaslsFDF23KCw&sid=7fe0c1c54e89aaae#🇩🇪 Germany-101"
+    "url": "vless://02722550-1915-4629-a653-cbe95e594f70@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={\"uplinkHTTPMethod\":\"GET\",\"uplinkDataPlacement\":\"body\",\"xPaddingBytes\":\"96-1040\",\"xPaddingObfsMode\":true,\"xPaddingMethod\":\"tokenish\",\"xPaddingPlacement\":\"queryInHeader\",\"xPaddingHeader\":\"X-Media-Token\",\"xPaddingKey\":\"_t\",\"sessionPlacement\":\"cookie\",\"sessionKey\":\"stream_auth\",\"sessionIDPlacement\":\"cookie\",\"sessionIDKey\":\"stream_auth\",\"seqPlacement\":\"cookie\",\"seqKey\":\"part_index\",\"uplinkChunkSize\":0,\"xmux\":{\"cMaxLifetimeMs\":0,\"cMaxReuseTimes\":\"24-64\",\"maxConcurrency\":\"4-8\",\"maxConnections\":0,\"hMaxRequestTimes\":\"160-320\",\"hMaxReusableSecs\":\"600-1200\"},\"scMaxEachPostBytes\":100000,\"scMinPostsIntervalMs\":70}&fp=chrome&host=cdnaapiv3.mediaeze.com&mode=packet-up&path=/api/v68/uptodown/&security=tls&sni=cdnaapiv3.mediaeze.com&type=xhttp#🇷🇺 Russia-88 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-02",
-    "protocol": "trojan",
-    "country": "Cloudflare CDN",
-    "flag": "🌍",
-    "fast": false,
+    "name": "🇺🇸 United States-125 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
     "verified": true,
-    "latency_ms": 307,
+    "latency_ms": 101,
     "speed_mbps": null,
-    "url": "trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🌍 Cloudflare-02"
+    "url": "vless://9a199224-c098-4e0c-89de-98c8892567cb@155.46.213.182:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.x0MOFDivxkBiSqE5Ifj89Dr-FfMabYepWtVFMTjMgzI&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=daredevil.manufacturingcity.ir&mode=auto&path=/TelegramChannel:@daredevil_404&security=tls&sni=daredevil.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-125 ⚡"
   },
   {
-    "name": "🌍 Fastly-02",
-    "protocol": "trojan",
-    "country": "Fastly CDN",
-    "flag": "🌍",
-    "fast": false,
+    "name": "🇺🇸 United States-121 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
     "verified": true,
-    "latency_ms": 312,
+    "latency_ms": 106,
     "speed_mbps": null,
-    "url": "trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-02"
+    "url": "vless://73a65dd6-92d6-43ac-8c68-52abcfe6202d@199.33.231.87:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.OuWGRbBBHkUJHQYwAalW7p5eT8Wq9GA2VovyQQFULiQ&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=outland.manufacturingcity.ir&mode=auto&path=/main.html&security=tls&sni=outland.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-121 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-03",
-    "protocol": "vmess",
-    "country": "Cloudflare CDN",
-    "flag": "🌍",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 316,
-    "speed_mbps": null,
-    "url": "vmess://ewogICAgImFkZCI6ICIxMDQuMTYuODkuNDQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ6aHV5b25nLmh1Y2xvdWQtZG5zLnh5eiIsCiAgICAiaWQiOiAiOWExOGNiYjEtODFkMi00NzIwLTlmMDktNDZlYTI3NmI2ZGRiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2Ljg5LjQ0LTAyNTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🌍 Cloudflare-03"
-  },
-  {
-    "name": "🌍 Fastly",
-    "protocol": "trojan",
-    "country": "Fastly CDN",
-    "flag": "🌍",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 323,
-    "speed_mbps": null,
-    "url": "trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={\"xPaddingBytes\":\"100-1000\"}&insecure=0&host=telegram-uonvpn.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly"
-  },
-  {
-    "name": "🌍 Fastly-04",
-    "protocol": "trojan",
-    "country": "Fastly CDN",
-    "flag": "🌍",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 324,
-    "speed_mbps": null,
-    "url": "trojan://MiTiVPN@151.101.56.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/des---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-04"
-  },
-  {
-    "name": "🌍 Fastly-06",
-    "protocol": "trojan",
-    "country": "Fastly CDN",
-    "flag": "🌍",
-    "fast": false,
-    "verified": true,
-    "latency_ms": 325,
-    "speed_mbps": null,
-    "url": "trojan://MiTiVPN@151.101.56.6:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Fastly-06"
-  },
-  {
-    "name": "🌍 Cloudflare-11",
+    "name": "🌍 Cloudflare-434 ⚡",
     "protocol": "vless",
     "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 325,
+    "latency_ms": 116,
     "speed_mbps": null,
-    "url": "vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🌍 Cloudflare-11"
+    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@104.17.135.117:2083?encryption=none&security=tls&sni=tr.novexgroup.ir&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=tr.novexgroup.ir&path=/assets/060d5a0237a377e5d62eae3a/5e7b25de6c161f941b99f303/sync&extra={\"scMaxEachPostBytes\":\"1000000\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-434 ⚡"
   },
   {
-    "name": "🌍 Global-36",
-    "protocol": "trojan",
-    "country": "Global",
+    "name": "🇱🇹 Lithuania-06 ⚡",
+    "protocol": "vless",
+    "country": "Lithuania",
+    "flag": "🇱🇹",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 117,
+    "speed_mbps": null,
+    "url": "vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🇱🇹 Lithuania-06 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-440 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
     "flag": "🌍",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 332,
+    "latency_ms": 119,
     "speed_mbps": null,
-    "url": "trojan://MiTiVPN@167.82.76.27:443?path=%&security=tls&alpn=http/1.1&insecure=0&host=.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Global-36"
+    "url": "vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@190.93.246.216:2087?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws/?ed=2048&fp=chrome&alpn=h2#🌍 Cloudflare-440 ⚡"
   },
   {
-    "name": "🌍 Global-37",
-    "protocol": "trojan",
-    "country": "Global",
-    "flag": "🌍",
-    "fast": false,
+    "name": "🇺🇸 United States-126 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
     "verified": true,
-    "latency_ms": 335,
+    "latency_ms": 120,
     "speed_mbps": null,
-    "url": "trojan://MiTiVPN@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌍 Global-37"
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#🇺🇸 United States-126 ⚡"
   },
   {
-    "name": "🇫🇮 Finland-39",
+    "name": "🇫🇮 Finland-44 ⚡",
     "protocol": "vless",
     "country": "Finland",
     "flag": "🇫🇮",
-    "fast": false,
+    "fast": true,
     "verified": true,
-    "latency_ms": 344,
+    "latency_ms": 122,
     "speed_mbps": null,
-    "url": "vless://becd3b04-62a8-4b74-be67-be746008b4c2@144.31.7.182:443?allowInsecure=0&insecure=0&sni=cdn-582.spliceflowtech.com&encryption=none&fp=chrome&alpn=h2&security=tls&type=grpc&serviceName=grpc#🇫🇮 Finland-39"
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&security=reality&type=tcp#🇫🇮 Finland-44 ⚡"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-46 ⚡",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 130,
+    "speed_mbps": null,
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.193:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=/blue#🇬🇧 United Kingdom-46 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-436 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 133,
+    "speed_mbps": null,
+    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@104.18.139.67:2083?encryption=none&security=tls&sni=de4.novexgroup.ir&fp=chrome&type=xhttp&host=de4.novexgroup.ir&path=/assets/060d5a0237a377e5d62eae3a/5e7b25de6c161f941b99f303/sync&mode=auto&extra={\"scMaxEachPostBytes\":\"1000000\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-436 ⚡"
+  },
+  {
+    "name": "🇸🇪 Sweden-13 ⚡",
+    "protocol": "vless",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 136,
+    "speed_mbps": null,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@2.26.93.130:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se1.hat.onl&fp=chrome&pbk=0q-auqEPBR3lETnoHLdm7OVbM0DWZQq74z_JV7WznUk&sid=ff25c7e7c95baabf&type=tcp&headerType=none#🇸🇪 Sweden-13 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-484 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 139,
+    "speed_mbps": null,
+    "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@188.114.96.10:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-484 ⚡"
   }
 ]
