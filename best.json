@@ -1,113 +1,47 @@
 [
   {
-    "name": "🇷🇺 Russia-27 ⚡",
-    "protocol": "vless",
-    "country": "Russia",
-    "flag": "🇷🇺",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 126,
-    "speed_mbps": 3.48,
-    "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&fp=&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#🇷🇺 Russia-27 ⚡"
-  },
-  {
     "name": "🇷🇺 Russia-88 ⚡",
     "protocol": "vless",
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 72,
+    "latency_ms": 74,
     "speed_mbps": null,
     "url": "vless://02722550-1915-4629-a653-cbe95e594f70@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={\"uplinkHTTPMethod\":\"GET\",\"uplinkDataPlacement\":\"body\",\"xPaddingBytes\":\"96-1040\",\"xPaddingObfsMode\":true,\"xPaddingMethod\":\"tokenish\",\"xPaddingPlacement\":\"queryInHeader\",\"xPaddingHeader\":\"X-Media-Token\",\"xPaddingKey\":\"_t\",\"sessionPlacement\":\"cookie\",\"sessionKey\":\"stream_auth\",\"sessionIDPlacement\":\"cookie\",\"sessionIDKey\":\"stream_auth\",\"seqPlacement\":\"cookie\",\"seqKey\":\"part_index\",\"uplinkChunkSize\":0,\"xmux\":{\"cMaxLifetimeMs\":0,\"cMaxReuseTimes\":\"24-64\",\"maxConcurrency\":\"4-8\",\"maxConnections\":0,\"hMaxRequestTimes\":\"160-320\",\"hMaxReusableSecs\":\"600-1200\"},\"scMaxEachPostBytes\":100000,\"scMinPostsIntervalMs\":70}&fp=chrome&host=cdnaapiv3.mediaeze.com&mode=packet-up&path=/api/v68/uptodown/&security=tls&sni=cdnaapiv3.mediaeze.com&type=xhttp#🇷🇺 Russia-88 ⚡"
   },
   {
-    "name": "🇷🇺 Russia-93 ⚡",
+    "name": "🇷🇺 Russia-109 ⚡",
     "protocol": "vless",
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 88,
+    "latency_ms": 100,
     "speed_mbps": null,
-    "url": "vless://16b37572-636e-4f46-8d45-203fccd4bff8@139.100.204.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=efmir.inrouge.today&fp=chrome&pbk=-pNxknNY1xAONI5bEKXsaFlnr803OxCS1xAn2pg92n0&sid=eb9ef5e48a9e92f6&type=tcp#🇷🇺 Russia-93 ⚡"
+    "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@94.103.2.251:443?security=reality&encryption=none&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=00000000#🇷🇺 Russia-109 ⚡"
   },
   {
-    "name": "🇷🇺 Russia-99 ⚡",
+    "name": "🇷🇺 Russia-103 ⚡",
     "protocol": "vless",
     "country": "Russia",
     "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 111,
+    "latency_ms": 120,
     "speed_mbps": null,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.128.36.48:443?security=reality&encryption=none&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bzzru.hat.apruxdomain.space&sid=b2ba734eff38baa9#🇷🇺 Russia-99 ⚡"
+    "url": "vless://57441186-17bd-40c6-ae68-e557099c9d77@176.53.161.208:443?security=reality&encryption=none&pbk=mrWlgdMs8fEGDHvw3zdJYUw9oHm5LyGeeMo7ZiWc11Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eehfgs.save-node.com&sid=45ee70d18247e5#🇷🇺 Russia-103 ⚡"
   },
   {
-    "name": "🇺🇸 United States-126 ⚡",
+    "name": "🇷🇺 Russia-106 ⚡",
     "protocol": "vless",
-    "country": "United States",
-    "flag": "🇺🇸",
+    "country": "Russia",
+    "flag": "🇷🇺",
     "fast": true,
     "verified": true,
-    "latency_ms": 116,
+    "latency_ms": 120,
     "speed_mbps": null,
-    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#🇺🇸 United States-126 ⚡"
-  },
-  {
-    "name": "🇺🇸 United States-125 ⚡",
-    "protocol": "vless",
-    "country": "United States",
-    "flag": "🇺🇸",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 118,
-    "speed_mbps": null,
-    "url": "vless://9a199224-c098-4e0c-89de-98c8892567cb@155.46.213.182:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.x0MOFDivxkBiSqE5Ifj89Dr-FfMabYepWtVFMTjMgzI&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=daredevil.manufacturingcity.ir&mode=auto&path=/TelegramChannel:@daredevil_404&security=tls&sni=daredevil.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-125 ⚡"
-  },
-  {
-    "name": "🇺🇸 United States-121 ⚡",
-    "protocol": "vless",
-    "country": "United States",
-    "flag": "🇺🇸",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 133,
-    "speed_mbps": null,
-    "url": "vless://73a65dd6-92d6-43ac-8c68-52abcfe6202d@199.33.231.87:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.OuWGRbBBHkUJHQYwAalW7p5eT8Wq9GA2VovyQQFULiQ&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=outland.manufacturingcity.ir&mode=auto&path=/main.html&security=tls&sni=outland.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-121 ⚡"
-  },
-  {
-    "name": "🌍 Global-1552 ⚡",
-    "protocol": "vless",
-    "country": "Global",
-    "flag": "🌍",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 133,
-    "speed_mbps": null,
-    "url": "vless://16b37572-636e-4f46-8d45-203fccd4bff8@efmir.inrouge.today:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=efmir.inrouge.today&fp=chrome&pbk=-pNxknNY1xAONI5bEKXsaFlnr803OxCS1xAn2pg92n0&sid=eb9ef5e48a9e92f6&type=tcp#🌍 Global-1552 ⚡"
-  },
-  {
-    "name": "🇪🇪 Estonia-07 ⚡",
-    "protocol": "vless",
-    "country": "Estonia",
-    "flag": "🇪🇪",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 138,
-    "speed_mbps": null,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@185.252.177.180:443?security=reality&encryption=none&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee1.hat.onl&sid=5a7216aec1371894#🇪🇪 Estonia-07 ⚡"
-  },
-  {
-    "name": "🇫🇮 Finland-44 ⚡",
-    "protocol": "vless",
-    "country": "Finland",
-    "flag": "🇫🇮",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 140,
-    "speed_mbps": null,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&security=reality&type=tcp#🇫🇮 Finland-44 ⚡"
+    "url": "vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=/&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&fp=chrome&type=xhttp&sni=max.ru#🇷🇺 Russia-106 ⚡"
   },
   {
     "name": "🇱🇹 Lithuania-06 ⚡",
@@ -116,31 +50,53 @@
     "flag": "🇱🇹",
     "fast": true,
     "verified": true,
-    "latency_ms": 148,
+    "latency_ms": 137,
     "speed_mbps": null,
     "url": "vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🇱🇹 Lithuania-06 ⚡"
   },
   {
-    "name": "🇬🇧 United Kingdom-46 ⚡",
+    "name": "🇺🇸 United States-125 ⚡",
     "protocol": "vless",
-    "country": "United Kingdom",
-    "flag": "🇬🇧",
+    "country": "United States",
+    "flag": "🇺🇸",
     "fast": true,
     "verified": true,
-    "latency_ms": 150,
+    "latency_ms": 141,
     "speed_mbps": null,
-    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.193:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=/blue#🇬🇧 United Kingdom-46 ⚡"
+    "url": "vless://9a199224-c098-4e0c-89de-98c8892567cb@155.46.213.182:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.x0MOFDivxkBiSqE5Ifj89Dr-FfMabYepWtVFMTjMgzI&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=daredevil.manufacturingcity.ir&mode=auto&path=/TelegramChannel:@daredevil_404&security=tls&sni=daredevil.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-125 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-434 ⚡",
+    "name": "🇺🇸 United States-126 ⚡",
     "protocol": "vless",
-    "country": "Cloudflare CDN",
-    "flag": "🌍",
+    "country": "United States",
+    "flag": "🇺🇸",
     "fast": true,
     "verified": true,
-    "latency_ms": 152,
+    "latency_ms": 147,
     "speed_mbps": null,
-    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@104.17.135.117:2083?encryption=none&security=tls&sni=tr.novexgroup.ir&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=tr.novexgroup.ir&path=/assets/060d5a0237a377e5d62eae3a/5e7b25de6c161f941b99f303/sync&extra={\"scMaxEachPostBytes\":\"1000000\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-434 ⚡"
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?security=tls&sni=zdyd.kpcloud.eu.org&type=ws&path=/blue#🇺🇸 United States-126 ⚡"
+  },
+  {
+    "name": "🇺🇸 United States-121 ⚡",
+    "protocol": "vless",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 154,
+    "speed_mbps": null,
+    "url": "vless://73a65dd6-92d6-43ac-8c68-52abcfe6202d@199.33.231.87:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.OuWGRbBBHkUJHQYwAalW7p5eT8Wq9GA2VovyQQFULiQ&extra={\"mode\":\"auto\",\"xPaddingBytes\":\"100-1000\"}&fp=chrome&host=outland.manufacturingcity.ir&mode=auto&path=/main.html&security=tls&sni=outland.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#🇺🇸 United States-121 ⚡"
+  },
+  {
+    "name": "🇫🇮 Finland-44 ⚡",
+    "protocol": "vless",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 157,
+    "speed_mbps": null,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&security=reality&type=tcp#🇫🇮 Finland-44 ⚡"
   },
   {
     "name": "🇱🇻 Latvia-03 ⚡",
@@ -149,30 +105,74 @@
     "flag": "🇱🇻",
     "fast": true,
     "verified": true,
-    "latency_ms": 159,
+    "latency_ms": 161,
     "speed_mbps": null,
     "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.75.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none#🇱🇻 Latvia-03 ⚡"
   },
   {
-    "name": "🇫🇮 Finland-45 ⚡",
+    "name": "🇳🇱 Netherlands-74 ⚡",
     "protocol": "vless",
-    "country": "Finland",
-    "flag": "🇫🇮",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
     "fast": true,
     "verified": true,
-    "latency_ms": 160,
+    "latency_ms": 168,
     "speed_mbps": null,
-    "url": "vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@144.31.156.247:5432?headerType=none&encryption=none&insecure=0&fp=chrome&flow=xtls-rprx-vision&type=tcp&allowInsecure=0&security=tls#🇫🇮 Finland-45 ⚡"
+    "url": "vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.186.112:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=974acf45#🇳🇱 Netherlands-74 ⚡"
   },
   {
-    "name": "🌍 Cloudflare-484 ⚡",
+    "name": "🌍 Cloudflare-434 ⚡",
     "protocol": "vless",
     "country": "Cloudflare CDN",
     "flag": "🌍",
     "fast": true,
     "verified": true,
-    "latency_ms": 165,
+    "latency_ms": 171,
     "speed_mbps": null,
-    "url": "vless://445c192b-df71-463d-860d-f2546ddc6a62@188.114.96.10:443?encryption=none&fp=chrome&host=&path=/vless&security=tls&sni=a8b966dc18b7.tetrjtetjetej.workers.dev&type=ws#🌍 Cloudflare-484 ⚡"
+    "url": "vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@104.17.135.117:2083?encryption=none&security=tls&sni=tr.novexgroup.ir&alpn=h2, http/1.1&fp=chrome&type=xhttp&mode=auto&host=tr.novexgroup.ir&path=/assets/060d5a0237a377e5d62eae3a/5e7b25de6c161f941b99f303/sync&extra={\"scMaxEachPostBytes\":\"1000000\",\"xPaddingBytes\":\"100-1000\"}#🌍 Cloudflare-434 ⚡"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-46 ⚡",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 179,
+    "speed_mbps": null,
+    "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.193:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=/blue#🇬🇧 United Kingdom-46 ⚡"
+  },
+  {
+    "name": "🇩🇪 Germany-142 ⚡",
+    "protocol": "vless",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 180,
+    "speed_mbps": null,
+    "url": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@104.167.24.174:443?security=reality&encryption=none&pbk=DOACuN8AAmCotGUm5Jdhk05NPGo1EWqhuJq8qfJ05WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vnx.cloudvk.cc&sid=be2b9807e389a82d#🇩🇪 Germany-142 ⚡"
+  },
+  {
+    "name": "🇪🇪 Estonia-07 ⚡",
+    "protocol": "vless",
+    "country": "Estonia",
+    "flag": "🇪🇪",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 185,
+    "speed_mbps": null,
+    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@185.252.177.180:443?security=reality&encryption=none&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee1.hat.onl&sid=5a7216aec1371894#🇪🇪 Estonia-07 ⚡"
+  },
+  {
+    "name": "🌍 Cloudflare-617 ⚡",
+    "protocol": "vless",
+    "country": "Cloudflare CDN",
+    "flag": "🌍",
+    "fast": true,
+    "verified": true,
+    "latency_ms": 196,
+    "speed_mbps": null,
+    "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2083?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev&path=/?ed=2560#🌍 Cloudflare-617 ⚡"
   }
 ]
