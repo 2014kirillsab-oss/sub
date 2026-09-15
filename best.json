@@ -1,5 +1,27 @@
 [
   {
+    "name": "🇷🇸 Serbia-17",
+    "protocol": "vless",
+    "country": "Serbia",
+    "flag": "🇷🇸",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 280,
+    "speed_mbps": 4.29,
+    "url": "vless://4360f941-b541-43d4-8507-2de3763e0cfd@150.40.126.28:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rs.convert-flow.net&sid=00a61d55a07de885#🇷🇸 Serbia-17"
+  },
+  {
+    "name": "🇬🇧 United Kingdom-53",
+    "protocol": "vless",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "fast": false,
+    "verified": true,
+    "latency_ms": 4506,
+    "speed_mbps": 2.44,
+    "url": "vless://6806dc9a-8f5c-4981-b64d-3527b9522b62@46.33.8.20:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=a61d99e920140145#🇬🇧 United Kingdom-53"
+  },
+  {
     "name": "🇷🇺 Russia-88 ⚡",
     "protocol": "vless",
     "country": "Russia",
@@ -152,27 +174,5 @@
     "latency_ms": 180,
     "speed_mbps": null,
     "url": "vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@104.167.24.174:443?security=reality&encryption=none&pbk=DOACuN8AAmCotGUm5Jdhk05NPGo1EWqhuJq8qfJ05WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vnx.cloudvk.cc&sid=be2b9807e389a82d#🇩🇪 Germany-142 ⚡"
-  },
-  {
-    "name": "🇪🇪 Estonia-07 ⚡",
-    "protocol": "vless",
-    "country": "Estonia",
-    "flag": "🇪🇪",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 185,
-    "speed_mbps": null,
-    "url": "vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@185.252.177.180:443?security=reality&encryption=none&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee1.hat.onl&sid=5a7216aec1371894#🇪🇪 Estonia-07 ⚡"
-  },
-  {
-    "name": "🌍 Cloudflare-617 ⚡",
-    "protocol": "vless",
-    "country": "Cloudflare CDN",
-    "flag": "🌍",
-    "fast": true,
-    "verified": true,
-    "latency_ms": 196,
-    "speed_mbps": null,
-    "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:2083?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev&path=/?ed=2560#🌍 Cloudflare-617 ⚡"
   }
 ]
